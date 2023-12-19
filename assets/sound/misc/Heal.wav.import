@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/Heal.wav-1be2286fb96e0fdc739b9c61e945369e.sample"
+type="AudioStreamWAV"
+uid="uid://dx0jivhcdhnxm"
+path="res://.godot/imported/Heal.wav-1be2286fb96e0fdc739b9c61e945369e.sample"
 
 [deps]
 
 source_file="res://assets/sound/misc/Heal.wav"
-dest_files=[ "res://.import/Heal.wav-1be2286fb96e0fdc739b9c61e945369e.sample" ]
+dest_files=["res://.godot/imported/Heal.wav-1be2286fb96e0fdc739b9c61e945369e.sample"]
 
 [params]
 

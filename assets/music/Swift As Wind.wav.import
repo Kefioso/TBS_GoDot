@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/Swift As Wind.wav-d700d7078e0ac59c7c190cdc9e879908.sample"
+type="AudioStreamWAV"
+uid="uid://bilp4atlkglss"
+path="res://.godot/imported/Swift As Wind.wav-d700d7078e0ac59c7c190cdc9e879908.sample"
 
 [deps]
 
 source_file="res://assets/music/Swift As Wind.wav"
-dest_files=[ "res://.import/Swift As Wind.wav-d700d7078e0ac59c7c190cdc9e879908.sample" ]
+dest_files=["res://.godot/imported/Swift As Wind.wav-d700d7078e0ac59c7c190cdc9e879908.sample"]
 
 [params]
 

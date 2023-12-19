@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/AXE_3.wav-34aae7321327c41a0d4d9d5cd101e874.sample"
+type="AudioStreamWAV"
+uid="uid://hcme3g04oaon"
+path="res://.godot/imported/AXE_3.wav-34aae7321327c41a0d4d9d5cd101e874.sample"
 
 [deps]
 
 source_file="res://assets/sound/battle sounds/AXE_3.wav"
-dest_files=[ "res://.import/AXE_3.wav-34aae7321327c41a0d4d9d5cd101e874.sample" ]
+dest_files=["res://.godot/imported/AXE_3.wav-34aae7321327c41a0d4d9d5cd101e874.sample"]
 
 [params]
 

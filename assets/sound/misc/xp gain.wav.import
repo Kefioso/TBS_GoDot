@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/xp gain.wav-a33f7059adca52ebe911501a41d96117.sample"
+type="AudioStreamWAV"
+uid="uid://dqqit5dwr6reu"
+path="res://.godot/imported/xp gain.wav-a33f7059adca52ebe911501a41d96117.sample"
 
 [deps]
 
 source_file="res://assets/sound/misc/xp gain.wav"
-dest_files=[ "res://.import/xp gain.wav-a33f7059adca52ebe911501a41d96117.sample" ]
+dest_files=["res://.godot/imported/xp gain.wav-a33f7059adca52ebe911501a41d96117.sample"]
 
 [params]
 

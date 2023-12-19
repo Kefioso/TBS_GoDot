@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/Wall Attack.wav-3cc4c274bffc033fca4a98955ca5e733.sample"
+type="AudioStreamWAV"
+uid="uid://b6vxdsc5ods18"
+path="res://.godot/imported/Wall Attack.wav-3cc4c274bffc033fca4a98955ca5e733.sample"
 
 [deps]
 
 source_file="res://assets/sound/battle sounds/Wall Attack.wav"
-dest_files=[ "res://.import/Wall Attack.wav-3cc4c274bffc033fca4a98955ca5e733.sample" ]
+dest_files=["res://.godot/imported/Wall Attack.wav-3cc4c274bffc033fca4a98955ca5e733.sample"]
 
 [params]
 

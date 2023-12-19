@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/menu navigate.wav-64c57362694cb75f3b091835403b5316.sample"
+type="AudioStreamWAV"
+uid="uid://dpduy0x3fkriq"
+path="res://.godot/imported/menu navigate.wav-64c57362694cb75f3b091835403b5316.sample"
 
 [deps]
 
 source_file="res://assets/sound/misc/menu navigate.wav"
-dest_files=[ "res://.import/menu navigate.wav-64c57362694cb75f3b091835403b5316.sample" ]
+dest_files=["res://.godot/imported/menu navigate.wav-64c57362694cb75f3b091835403b5316.sample"]
 
 [params]
 

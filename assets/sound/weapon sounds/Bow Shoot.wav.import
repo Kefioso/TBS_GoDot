@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/Bow Shoot.wav-915ba46dd3dc08565679bae0478e464b.sample"
+type="AudioStreamWAV"
+uid="uid://cyh4xumlnup0s"
+path="res://.godot/imported/Bow Shoot.wav-915ba46dd3dc08565679bae0478e464b.sample"
 
 [deps]
 
 source_file="res://assets/sound/weapon sounds/Bow Shoot.wav"
-dest_files=[ "res://.import/Bow Shoot.wav-915ba46dd3dc08565679bae0478e464b.sample" ]
+dest_files=["res://.godot/imported/Bow Shoot.wav-915ba46dd3dc08565679bae0478e464b.sample"]
 
 [params]
 

@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/Heavy Foot Steps 3.wav-d628538ab69ffaf9c910d71ecd1e7735.sample"
+type="AudioStreamWAV"
+uid="uid://bypwdm8jfchtk"
+path="res://.godot/imported/Heavy Foot Steps 3.wav-d628538ab69ffaf9c910d71ecd1e7735.sample"
 
 [deps]
 
 source_file="res://assets/sound/unitMovement/Heavy Foot Steps 3.wav"
-dest_files=[ "res://.import/Heavy Foot Steps 3.wav-d628538ab69ffaf9c910d71ecd1e7735.sample" ]
+dest_files=["res://.godot/imported/Heavy Foot Steps 3.wav-d628538ab69ffaf9c910d71ecd1e7735.sample"]
 
 [params]
 

@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/Light Foot Steps 1.wav-e17b980f7ac14de0424c5c00cc498827.sample"
+type="AudioStreamWAV"
+uid="uid://cs03ty1d3itk1"
+path="res://.godot/imported/Light Foot Steps 1.wav-e17b980f7ac14de0424c5c00cc498827.sample"
 
 [deps]
 
 source_file="res://assets/sound/unitMovement/Light Foot Steps 1.wav"
-dest_files=[ "res://.import/Light Foot Steps 1.wav-e17b980f7ac14de0424c5c00cc498827.sample" ]
+dest_files=["res://.godot/imported/Light Foot Steps 1.wav-e17b980f7ac14de0424c5c00cc498827.sample"]
 
 [params]
 

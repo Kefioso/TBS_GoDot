@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/Shop Entrance Greeting.wav-bf3e0e29e8f64298b41a3b27bcd75cbb.sample"
+type="AudioStreamWAV"
+uid="uid://d0khahgrbs4wh"
+path="res://.godot/imported/Shop Entrance Greeting.wav-bf3e0e29e8f64298b41a3b27bcd75cbb.sample"
 
 [deps]
 
 source_file="res://assets/voice/Shop Entrance Greeting.wav"
-dest_files=[ "res://.import/Shop Entrance Greeting.wav-bf3e0e29e8f64298b41a3b27bcd75cbb.sample" ]
+dest_files=["res://.godot/imported/Shop Entrance Greeting.wav-bf3e0e29e8f64298b41a3b27bcd75cbb.sample"]
 
 [params]
 

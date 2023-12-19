@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/No Damage.wav-044962909ee01703991875fa63642e9a.sample"
+type="AudioStreamWAV"
+uid="uid://c22eu1028jey"
+path="res://.godot/imported/No Damage.wav-044962909ee01703991875fa63642e9a.sample"
 
 [deps]
 
 source_file="res://assets/sound/battle sounds/No Damage.wav"
-dest_files=[ "res://.import/No Damage.wav-044962909ee01703991875fa63642e9a.sample" ]
+dest_files=["res://.godot/imported/No Damage.wav-044962909ee01703991875fa63642e9a.sample"]
 
 [params]
 

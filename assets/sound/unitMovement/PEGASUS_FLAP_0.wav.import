@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/PEGASUS_FLAP_0.wav-10736ebf870cf914aeeabe5f8c51a3cd.sample"
+type="AudioStreamWAV"
+uid="uid://crst7yfpdlt3o"
+path="res://.godot/imported/PEGASUS_FLAP_0.wav-10736ebf870cf914aeeabe5f8c51a3cd.sample"
 
 [deps]
 
 source_file="res://assets/sound/unitMovement/PEGASUS_FLAP_0.wav"
-dest_files=[ "res://.import/PEGASUS_FLAP_0.wav-10736ebf870cf914aeeabe5f8c51a3cd.sample" ]
+dest_files=["res://.godot/imported/PEGASUS_FLAP_0.wav-10736ebf870cf914aeeabe5f8c51a3cd.sample"]
 
 [params]
 

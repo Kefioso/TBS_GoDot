@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/Come again jpn.wav-b9058c2a1aee3bf3a83394e238d54a59.sample"
+type="AudioStreamWAV"
+uid="uid://dc4x8m7juge6v"
+path="res://.godot/imported/Come again jpn.wav-b9058c2a1aee3bf3a83394e238d54a59.sample"
 
 [deps]
 
 source_file="res://assets/voice/Come again jpn.wav"
-dest_files=[ "res://.import/Come again jpn.wav-b9058c2a1aee3bf3a83394e238d54a59.sample" ]
+dest_files=["res://.godot/imported/Come again jpn.wav-b9058c2a1aee3bf3a83394e238d54a59.sample"]
 
 [params]
 

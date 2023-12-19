@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/Attack 4.wav-a803593646ccdc2439a22f2929f6807c.sample"
+type="AudioStreamWAV"
+uid="uid://dvuglsj8rwnhf"
+path="res://.godot/imported/Attack 4.wav-a803593646ccdc2439a22f2929f6807c.sample"
 
 [deps]
 
 source_file="res://assets/sound/battle sounds/Attack 4.wav"
-dest_files=[ "res://.import/Attack 4.wav-a803593646ccdc2439a22f2929f6807c.sample" ]
+dest_files=["res://.godot/imported/Attack 4.wav-a803593646ccdc2439a22f2929f6807c.sample"]
 
 [params]
 

@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/Intro.wav-896b9d726ef1f5efaea6b43b2999ca1e.sample"
+type="AudioStreamWAV"
+uid="uid://d0c6n4tnn840s"
+path="res://.godot/imported/Intro.wav-896b9d726ef1f5efaea6b43b2999ca1e.sample"
 
 [deps]
 
 source_file="res://assets/sound/battle sounds/Intro.wav"
-dest_files=[ "res://.import/Intro.wav-896b9d726ef1f5efaea6b43b2999ca1e.sample" ]
+dest_files=["res://.godot/imported/Intro.wav-896b9d726ef1f5efaea6b43b2999ca1e.sample"]
 
 [params]
 

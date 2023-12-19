@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/Attack Miss 1.wav-227d320499ec04a17ed5abb9bdd710f9.sample"
+type="AudioStreamWAV"
+uid="uid://cqxt676okry82"
+path="res://.godot/imported/Attack Miss 1.wav-227d320499ec04a17ed5abb9bdd710f9.sample"
 
 [deps]
 
 source_file="res://assets/sound/battle sounds/Attack Miss 1.wav"
-dest_files=[ "res://.import/Attack Miss 1.wav-227d320499ec04a17ed5abb9bdd710f9.sample" ]
+dest_files=["res://.godot/imported/Attack Miss 1.wav-227d320499ec04a17ed5abb9bdd710f9.sample"]
 
 [params]
 

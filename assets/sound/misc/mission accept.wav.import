@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/mission accept.wav-526027b8fc336d7827feafeb2a6e289e.sample"
+type="AudioStreamWAV"
+uid="uid://bs4pltfu03y83"
+path="res://.godot/imported/mission accept.wav-526027b8fc336d7827feafeb2a6e289e.sample"
 
 [deps]
 
 source_file="res://assets/sound/misc/mission accept.wav"
-dest_files=[ "res://.import/mission accept.wav-526027b8fc336d7827feafeb2a6e289e.sample" ]
+dest_files=["res://.godot/imported/mission accept.wav-526027b8fc336d7827feafeb2a6e289e.sample"]
 
 [params]
 

@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/DOOR_OPEN_1.wav-3270fbeb6e0c033cb413f52d78daca26.sample"
+type="AudioStreamWAV"
+uid="uid://cbrkv2jr2g7l7"
+path="res://.godot/imported/DOOR_OPEN_1.wav-3270fbeb6e0c033cb413f52d78daca26.sample"
 
 [deps]
 
 source_file="res://assets/sound/misc/DOOR_OPEN_1.wav"
-dest_files=[ "res://.import/DOOR_OPEN_1.wav-3270fbeb6e0c033cb413f52d78daca26.sample" ]
+dest_files=["res://.godot/imported/DOOR_OPEN_1.wav-3270fbeb6e0c033cb413f52d78daca26.sample"]
 
 [params]
 

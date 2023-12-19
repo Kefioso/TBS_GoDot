@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/Hand Axe.wav-8912f06b05f1a4596b7c81e772fdd3ba.sample"
+type="AudioStreamWAV"
+uid="uid://bl5lmnuv3rjw2"
+path="res://.godot/imported/Hand Axe.wav-8912f06b05f1a4596b7c81e772fdd3ba.sample"
 
 [deps]
 
 source_file="res://assets/sound/weapon sounds/Hand Axe.wav"
-dest_files=[ "res://.import/Hand Axe.wav-8912f06b05f1a4596b7c81e772fdd3ba.sample" ]
+dest_files=["res://.godot/imported/Hand Axe.wav-8912f06b05f1a4596b7c81e772fdd3ba.sample"]
 
 [params]
 

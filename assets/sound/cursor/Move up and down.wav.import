@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/Move up and down.wav-897383de1f5e654c8657c445e3988dcc.sample"
+type="AudioStreamWAV"
+uid="uid://4lo8k7cqqrx3"
+path="res://.godot/imported/Move up and down.wav-897383de1f5e654c8657c445e3988dcc.sample"
 
 [deps]
 
 source_file="res://assets/sound/cursor/Move up and down.wav"
-dest_files=[ "res://.import/Move up and down.wav-897383de1f5e654c8657c445e3988dcc.sample" ]
+dest_files=["res://.godot/imported/Move up and down.wav-897383de1f5e654c8657c445e3988dcc.sample"]
 
 [params]
 

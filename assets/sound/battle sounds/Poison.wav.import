@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/Poison.wav-3162b4b77abe7d5d8728a62895f8e096.sample"
+type="AudioStreamWAV"
+uid="uid://v1shcgd4fjyu"
+path="res://.godot/imported/Poison.wav-3162b4b77abe7d5d8728a62895f8e096.sample"
 
 [deps]
 
 source_file="res://assets/sound/battle sounds/Poison.wav"
-dest_files=[ "res://.import/Poison.wav-3162b4b77abe7d5d8728a62895f8e096.sample" ]
+dest_files=["res://.godot/imported/Poison.wav-3162b4b77abe7d5d8728a62895f8e096.sample"]
 
 [params]
 

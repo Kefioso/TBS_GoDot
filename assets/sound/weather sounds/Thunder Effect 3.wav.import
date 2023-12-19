@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/Thunder Effect 3.wav-1728b5cbd78768160ac32c95b49340a9.sample"
+type="AudioStreamWAV"
+uid="uid://by7jkwt2j5ugu"
+path="res://.godot/imported/Thunder Effect 3.wav-1728b5cbd78768160ac32c95b49340a9.sample"
 
 [deps]
 
 source_file="res://assets/sound/weather sounds/Thunder Effect 3.wav"
-dest_files=[ "res://.import/Thunder Effect 3.wav-1728b5cbd78768160ac32c95b49340a9.sample" ]
+dest_files=["res://.godot/imported/Thunder Effect 3.wav-1728b5cbd78768160ac32c95b49340a9.sample"]
 
 [params]
 

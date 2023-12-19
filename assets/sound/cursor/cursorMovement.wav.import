@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/cursorMovement.wav-f57a329ab598b6219b6bf16a26712ccb.sample"
+type="AudioStreamWAV"
+uid="uid://dboq6f8yc10xm"
+path="res://.godot/imported/cursorMovement.wav-f57a329ab598b6219b6bf16a26712ccb.sample"
 
 [deps]
 
 source_file="res://assets/sound/cursor/cursorMovement.wav"
-dest_files=[ "res://.import/cursorMovement.wav-f57a329ab598b6219b6bf16a26712ccb.sample" ]
+dest_files=["res://.godot/imported/cursorMovement.wav-f57a329ab598b6219b6bf16a26712ccb.sample"]
 
 [params]
 

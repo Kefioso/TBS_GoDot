@@ -2,14 +2,18 @@
 
 importer="mp3"
 type="AudioStreamMP3"
-path="res://.import/Not Allowed.mp3-8c8042ba8e6b7e9ccd998e7d3c794597.mp3str"
+uid="uid://dpx8tvk5nt7jd"
+path="res://.godot/imported/Not Allowed.mp3-8c8042ba8e6b7e9ccd998e7d3c794597.mp3str"
 
 [deps]
 
 source_file="res://assets/sound/cursor/Not Allowed.mp3"
-dest_files=[ "res://.import/Not Allowed.mp3-8c8042ba8e6b7e9ccd998e7d3c794597.mp3str" ]
+dest_files=["res://.godot/imported/Not Allowed.mp3-8c8042ba8e6b7e9ccd998e7d3c794597.mp3str"]
 
 [params]
 
 loop=true
 loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

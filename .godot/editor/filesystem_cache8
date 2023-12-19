@@ -1,0 +1,913 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1702948509
+CONTRIBUTORS.md::TextFile::-1::1702945210::0::1::::<><>::
+default_bus_layout.tres::AudioBusLayout::2008489487361882998::1702948509::0::1::::<><>::
+default_env.tres::Environment::-1::1702945212::0::1::::<><>::
+FE Icon.jpg::CompressedTexture2D::669440409307268711::1702945210::1702948535::1::::<><>::
+icon.png::CompressedTexture2D::8285887209538413921::1702945212::1702948535::1::::<><>::
+Notes.txt::TextFile::-1::1702945210::0::1::::<><>::
+README.md::TextFile::-1::1702945210::0::1::::<><>::
+::res://addons/::1702945210
+::res://addons/GodotTIE/::1702948437
+GodotTIE_icon.png::CompressedTexture2D::2046635522140506622::1702945210::1702948535::1::::<><>::
+GodotTIE_plugin.gd::GDScript::-1::1702945210::0::1::::<>RefCounted<>::
+plugin.cfg::TextFile::-1::1702945210::0::1::::<><>::
+text_interface_engine.gd::GDScript::-1::1702945210::0::1::::<>ReferenceRect<>::
+::res://addons/pixijs_spritesheet_importer/::1702945210
+image_loader.gd::GDScript::-1::1702945210::0::1::::<>RefCounted<>::
+pixijs_importer.gd::GDScript::-1::1702945210::0::1::::<>RefCounted<>::
+pixijs_import_spritesheet.gd::GDScript::-1::1702945210::0::1::::<>RefCounted<>::
+plugin.cfg::TextFile::-1::1702945210::0::1::::<><>::
+::res://addons/vnen.tiled_importer/::1702948437
+plugin.cfg::TextFile::-1::1702945210::0::1::::<><>::
+polygon_sorter.gd::GDScript::-1::1702945210::0::1::::<>RefCounted<>::
+tiled.png::CompressedTexture2D::8461571783185027103::1702945210::1702948535::1::::<><>::
+tiled_import_plugin.gd::GDScript::-1::1702945210::0::1::::<>RefCounted<>::
+tiled_map_reader.gd::GDScript::-1::1702945210::0::1::::<>RefCounted<>::
+tiled_tileset_import_plugin.gd::GDScript::-1::1702945210::0::1::::<>RefCounted<>::
+tiled_xml_to_dict.gd::GDScript::-1::1702945210::0::1::::<>RefCounted<>::
+vnen.tiled_importer.gd::GDScript::-1::1702945210::0::1::::<>RefCounted<>::
+::res://assets/::1702945212
+::res://assets/backgrounds/::1702948439
+boat background.png::CompressedTexture2D::48873205651671406::1702945211::1702948534::1::::<><>::
+castle2.png::CompressedTexture2D::3866093984098820599::1702945211::1702948535::1::::<><>::
+castle.png::CompressedTexture2D::6627827640915212373::1702945211::1702948535::1::::<><>::
+cool_throne.png::CompressedTexture2D::1797596001390925937::1702945211::1702948535::1::::<><>::
+desert.png::CompressedTexture2D::5218553623164515136::1702945211::1702948535::1::::<><>::
+FE BG 1.png::CompressedTexture2D::9058648288178759375::1702945210::1702948535::1::::<><>::
+FE BG 2.jpg::CompressedTexture2D::7518856302205163454::1702945210::1702948535::1::::<><>::
+FE BG 3.jpg::CompressedTexture2D::4164248511867249773::1702945210::1702948535::1::::<><>::
+FE BG 4.jpg::CompressedTexture2D::510589847120849221::1702945210::1702948535::1::::<><>::
+FE BG 5.jpg::CompressedTexture2D::2140882897768177653::1702945210::1702948535::1::::<><>::
+forest.png::CompressedTexture2D::3840974296445865244::1702945211::1702948535::1::::<><>::
+More Backgrounds.png::CompressedTexture2D::6477497441859654503::1702945211::1702948536::1::::<><>::
+mountain.png::CompressedTexture2D::8855229556036221834::1702945211::1702948535::1::::<><>::
+mountain_trail.png::CompressedTexture2D::4223210270454510434::1702945211::1702948535::1::::<><>::
+plain.png::CompressedTexture2D::7931052563197683859::1702945211::1702948535::1::::<><>::
+snowfield.png::CompressedTexture2D::4356223163789366067::1702945211::1702948535::1::::<><>::
+snow_forest.png::CompressedTexture2D::2070194085404721893::1702945211::1702948535::1::::<><>::
+throne.png::CompressedTexture2D::8844498839502811710::1702945211::1702948535::1::::<><>::
+town.png::CompressedTexture2D::8470098704507107030::1702945211::1702948535::1::::<><>::
+village.png::CompressedTexture2D::8829576037432297498::1702945211::1702948535::1::::<><>::
+::res://assets/battle_effects/::1702948439
+2x.png::CompressedTexture2D::1176089350242113839::1702945211::1702948535::1::::<><>::
+Down Arrow.png::CompressedTexture2D::3462494788541353494::1702945211::1702948535::1::::<><>::
+Fire effect.png::CompressedTexture2D::3333276660731716545::1702945211::1702948535::1::::<><>::
+flux.png::CompressedTexture2D::1077035736232431663::1702945211::1702948534::1::::<><>::
+Heal Star.png::CompressedTexture2D::5158488989550351003::1702945211::1702948534::1::::<><>::
+Lightning Effects.png::CompressedTexture2D::362366095043857836::1702945211::1702948534::1::::<><>::
+Miss Sprite.png::CompressedTexture2D::6792039500283870990::1702945211::1702948534::1::::<><>::
+Physical Effects.png::CompressedTexture2D::4721942053217612996::1702945211::1702948534::1::::<><>::
+Up Arrow.png::CompressedTexture2D::1529791816521742914::1702945211::1702948534::1::::<><>::
+::res://assets/chapter image/::1702948438
+Chapter Background.png::CompressedTexture2D::4072689713011491862::1702945211::1702948535::1::::<><>::
+::res://assets/Dialogue/::1702948438
+arrow 2.png::CompressedTexture2D::2252882002495360704::1702945210::1702948534::1::::<><>::
+arrowDialogue.png::CompressedTexture2D::7628033063806622785::1702945210::1702948534::1::::<><>::
+dialogue Box 3H.png::CompressedTexture2D::6465959629087109254::1702945210::1702948534::1::::<><>::
+dialogueBox.png::CompressedTexture2D::6784840081046030076::1702945210::1702948534::1::::<><>::
+::res://assets/font/::1702948438
+Action Selector Font.tres::FontFile::-1::1702945211::0::1::::<><>::
+Font_Resource.tres::FontFile::-1::1702945211::0::1::::<><>::res://assets/font/Main Font.ttf
+main font.png::CompressedTexture2D::5426144620207786149::1702945211::1702948534::1::::<><>::
+Main Font.ttf::FontFile::338253099188839336::1702945211::1702948532::1::::<><>::
+Messaging Font.tres::FontFile::-1::1702945211::0::1::::<><>::
+Name Font.tres::FontFile::-1::1702945211::0::1::::<><>::res://assets/font/Main Font.ttf
+outline.png::CompressedTexture2D::3610452979688878686::1702945211::1702948534::1::::<><>::
+Preparation Screen Item List Font.tres::FontFile::-1::1702945211::0::1::::<><>::res://assets/font/Main Font.ttf
+Weapon Name.tres::FontFile::-1::1702945211::0::1::::<><>::res://assets/font/Main Font.ttf
+::res://assets/game over screen/::1702948438
+Game Over Screen.jpg::CompressedTexture2D::8147804014056148501::1702945211::1702948534::1::::<><>::
+::res://assets/intro screen/::1702948437
+General Villain.png::CompressedTexture2D::3766571307235685223::1702945211::1702948534::1::::<><>::
+intro background no text.jpg::CompressedTexture2D::8157229293252987699::1702945211::1702948534::1::::<><>::
+intro background.jpg::CompressedTexture2D::1784725055180625348::1702945211::1702948534::1::::<><>::
+::res://assets/items/::1702948429
+All Icons.png::CompressedTexture2D::3926457107570179816::1702945211::1702948534::1::::<><>::
+::res://assets/items/axes/::1702948437
+gorehowl.png::CompressedTexture2D::4356531022106259018::1702945211::1702948534::1::::<><>::
+ironAxe.png::CompressedTexture2D::3552899017065862466::1702945211::1702948534::1::::<><>::
+::res://assets/items/bows/::1702948430
+iron bow.png::CompressedTexture2D::2573762444986918486::1702945211::1702948534::1::::<><>::
+::res://assets/items/lances/::1702948430
+iron_lance_icon.png::CompressedTexture2D::3015110142430937671::1702945211::1702948534::1::::<><>::
+silverLance.png::CompressedTexture2D::4552764859506196333::1702945211::1702948534::1::::<><>::
+::res://assets/items/staves/::1702948430
+heal.png::CompressedTexture2D::8731657058587312860::1702945211::1702948534::1::::<><>::
+::res://assets/items/swords/::1702948430
+iron_Sword.png::CompressedTexture2D::1162935298563169805::1702945211::1702948534::1::::<><>::
+killing_edge_icon.png::CompressedTexture2D::5234164677586929824::1702945211::1702948534::1::::<><>::
+rapier.png::CompressedTexture2D::4439739339044984448::1702945211::1702948534::1::::<><>::
+steel_Sword.png::CompressedTexture2D::6634515473775683141::1702945211::1702948534::1::::<><>::
+::res://assets/items/tomes/::1702948430
+fire.png::CompressedTexture2D::733490915123435058::1702945211::1702948534::1::::<><>::
+flux.png::CompressedTexture2D::4121261747375186014::1702945211::1702948534::1::::<><>::
+::res://assets/items/Unarmed/::1702948429
+Unarmed.png::CompressedTexture2D::3503060384787085084::1702945211::1702948534::1::::<><>::
+::res://assets/levels/::1702948432
+TileSet.png::CompressedTexture2D::656883793744997641::1702945211::1702948534::1::::<><>::
+::res://assets/levels/level1/::1702948429
+Level 1.png::CompressedTexture2D::359120125845228076::1702945211::1702948534::1::::<><>::
+::res://assets/levels/level2/::1702948444
+level2.png::CompressedTexture2D::3875632242578232627::1702945211::1702948534::1::::<><>::
+::res://assets/levels/level3/::1702948444
+level3.png::CompressedTexture2D::8508663394865145069::1702945211::1702948534::1::::<><>::
+::res://assets/levels/level4/::1702948444
+level4.png::CompressedTexture2D::5259056069394871062::1702945211::1702948534::1::::<><>::
+::res://assets/levels/level5/::1702948444
+Boat level.png::CompressedTexture2D::2955757385166455485::1702945211::1702948534::1::::<><>::
+::res://assets/music/::1702948512
+01 Fire Emblem_ Three Houses Main Theme.ogg::AudioStreamOggVorbis::2088447510039180177::1702945211::1702948512::1::::<><>::
+06 Life at Garreg Mach Monastery.ogg::AudioStreamOggVorbis::1356964094368696380::1702945211::1702948511::1::::<><>::
+Chasing Daybreak.ogg::AudioStreamOggVorbis::7216553275035188329::1702945211::1702948510::1::::<><>::
+Destiny - Fire Emblem Awakening.ogg::AudioStreamOggVorbis::7911871896928440244::1702945211::1702948511::1::::<><>::
+Fierce as fire.wav::AudioStreamWAV::8814555860959931336::1702945211::1702948537::1::::<><>::
+Fire Emblem 8 Remastered - 4 In The Beginning.ogg::AudioStreamOggVorbis::4627442690527146459::1702945211::1702948511::1::::<><>::
+Fire Emblem Awakening OST -  44 Merchant Theme.ogg::AudioStreamOggVorbis::3594937174730383564::1702945211::1702948511::1::::<><>::
+Fodlan Winds.ogg::AudioStreamOggVorbis::343195486410853006::1702945211::1702948511::1::::<><>::
+Game Over.ogg::AudioStreamOggVorbis::8478206862961761387::1702945211::1702948512::1::::<><>::
+Swift As Wind.wav::AudioStreamWAV::2971602160871442706::1702945211::1702948537::1::::<><>::
+Tearing through Heaven.ogg::AudioStreamOggVorbis::5146155743880546258::1702945211::1702948512::1::::<><>::
+The Long Road.ogg::AudioStreamOggVorbis::283101879164630560::1702945211::1702948512::1::::<><>::
+Unfufilled.ogg::AudioStreamOggVorbis::4556302013617264100::1702945211::1702948512::1::::<><>::
+::res://assets/Preparation/::1702948430
+Preparation Screen.png::CompressedTexture2D::1932565460026774401::1702945210::1702948534::1::::<><>::
+::res://assets/Shaders/::1702945210
+Burn Shader Effect Shorter.tres::ShaderMaterial::-1::1702945210::0::1::::<><>::res://assets/Shaders/Burn Shader Shorter.shader
+Burn Shader Effect.tres::ShaderMaterial::-1::1702945210::0::1::::<><>::
+::res://assets/sound/::1702945212
+::res://assets/sound/battle sounds/::1702948443
+ARROW_2.wav::AudioStreamWAV::7912556093101725498::1702945211::1702948536::1::::<><>::
+Attack 1.wav::AudioStreamWAV::699998375726740811::1702945211::1702948536::1::::<><>::
+Attack 2.wav::AudioStreamWAV::8290469768598711479::1702945211::1702948536::1::::<><>::
+Attack 3.wav::AudioStreamWAV::6234289070263717490::1702945211::1702948536::1::::<><>::
+Attack 4.wav::AudioStreamWAV::8674900229095240391::1702945211::1702948536::1::::<><>::
+Attack Hit 1.wav::AudioStreamWAV::7154230850681920447::1702945211::1702948536::1::::<><>::
+Attack Hit 2.wav::AudioStreamWAV::473545061599047314::1702945211::1702948537::1::::<><>::
+Attack Hit 3.wav::AudioStreamWAV::1540327468747745358::1702945211::1702948537::1::::<><>::
+Attack Hit 4.wav::AudioStreamWAV::4487411443913158689::1702945211::1702948537::1::::<><>::
+Attack Miss 1.wav::AudioStreamWAV::5944554265698007557::1702945211::1702948537::1::::<><>::
+Attack Miss 2.wav::AudioStreamWAV::677808693657454484::1702945211::1702948537::1::::<><>::
+Attack Miss 3.wav::AudioStreamWAV::8160481575564829494::1702945211::1702948537::1::::<><>::
+AXE_3.wav::AudioStreamWAV::496187889160984009::1702945211::1702948537::1::::<><>::
+Critical Hit 1.wav::AudioStreamWAV::5679091753974084426::1702945211::1702948537::1::::<><>::
+Critical Hit 2.wav::AudioStreamWAV::371212314261929078::1702945211::1702948537::1::::<><>::
+Damage taken.wav::AudioStreamWAV::6115773518602159459::1702945211::1702948537::1::::<><>::
+Death.wav::AudioStreamWAV::2408998450837600181::1702945211::1702948537::1::::<><>::
+Final Hit.wav::AudioStreamWAV::6293361892863322299::1702945211::1702948537::1::::<><>::
+FIRE_0.wav::AudioStreamWAV::1718994240341588072::1702945211::1702948537::1::::<><>::
+FIRE_1.wav::AudioStreamWAV::4017171179060860158::1702945211::1702948537::1::::<><>::
+Flux1.wav::AudioStreamWAV::5070918213869001283::1702945211::1702948537::1::::<><>::
+Flux2.wav::AudioStreamWAV::89952268563508106::1702945211::1702948537::1::::<><>::
+Flux3.wav::AudioStreamWAV::2707958130860959991::1702945211::1702948537::1::::<><>::
+Heal type sound 2.wav::AudioStreamWAV::3753094633595968109::1702945211::1702948537::1::::<><>::
+Heal.wav::AudioStreamWAV::5913749017321422516::1702945211::1702948537::1::::<><>::
+Intro.wav::AudioStreamWAV::8920018892772558736::1702945211::1702948537::1::::<><>::
+Item.wav::AudioStreamWAV::7774633091616944456::1702945211::1702948537::1::::<><>::
+Legendary Weapon.wav::AudioStreamWAV::4010203955452333953::1702945211::1702948537::1::::<><>::
+Level Up.wav::AudioStreamWAV::2919271439928970967::1702945211::1702948537::1::::<><>::
+Myrrh Transform 1.wav::AudioStreamWAV::999939703323907155::1702945211::1702948537::1::::<><>::
+Myrrh Transform 2.wav::AudioStreamWAV::1360559891779578875::1702945211::1702948537::1::::<><>::
+No Damage.wav::AudioStreamWAV::197763480421184796::1702945211::1702948537::1::::<><>::
+Poison.wav::AudioStreamWAV::1528745058922159424::1702945211::1702948537::1::::<><>::
+SHOOTER_1.wav::AudioStreamWAV::489717629262224835::1702945211::1702948537::1::::<><>::
+Wall Attack.wav::AudioStreamWAV::4607029567414526101::1702945211::1702948537::1::::<><>::
+::res://assets/sound/cursor/::1702948443
+accept.wav::AudioStreamWAV::2690113065913961639::1702945211::1702948537::1::::<><>::
+backSound.wav::AudioStreamWAV::7168743788695332528::1702945211::1702948537::1::::<><>::
+cursorMovement.wav::AudioStreamWAV::7259379329458958510::1702945211::1702948537::1::::<><>::
+menu cursor.wav::AudioStreamWAV::625977192680896240::1702945211::1702948537::1::::<><>::
+Move up and down.wav::AudioStreamWAV::2059094164675333038::1702945211::1702948537::1::::<><>::
+Not Allowed.mp3::AudioStreamMP3::8261614104658266461::1702945211::1702948532::1::::<><>::
+Not Allowed.wav::AudioStreamWAV::1617736019029612754::1702945211::1702948537::1::::<><>::
+Select - low tone.wav::AudioStreamWAV::8978273448495480448::1702945211::1702948537::1::::<><>::
+selectUnit.wav::AudioStreamWAV::6553094660371074484::1702945211::1702948537::1::::<><>::
+::res://assets/sound/message/::1702948443
+Message.wav::AudioStreamWAV::3515001793822536783::1702945211::1702948537::1::::<><>::
+::res://assets/sound/misc/::1702948441
+accept 2.wav::AudioStreamWAV::393821830798872172::1702945211::1702948537::1::::<><>::
+ARMOR_0.wav::AudioStreamWAV::8661959208266285015::1702945211::1702948537::1::::<><>::
+bird chirping.wav::AudioStreamWAV::2814931109069637908::1702945211::1702948537::1::::<><>::
+cheer.wav::AudioStreamWAV::7642571681965295289::1702945211::1702948537::1::::<><>::
+CRITICAL_HORSE_0.wav::AudioStreamWAV::8227462397561471581::1702945211::1702948537::1::::<><>::
+DOOR_OPEN_1.wav::AudioStreamWAV::4878770737285368278::1702945211::1702948536::1::::<><>::
+Heal.wav::AudioStreamWAV::8825776751790834486::1702945211::1702948536::1::::<><>::
+help menu close.wav::AudioStreamWAV::2863269923352520558::1702945211::1702948536::1::::<><>::
+help menu open.wav::AudioStreamWAV::2258295265467734863::1702945211::1702948536::1::::<><>::
+item broke.wav::AudioStreamWAV::8324150696565951316::1702945212::1702948536::1::::<><>::
+item get.wav::AudioStreamWAV::6199279115188884832::1702945212::1702948536::1::::<><>::
+item lost 2.wav::AudioStreamWAV::6906067935042391090::1702945212::1702948536::1::::<><>::
+item lost.wav::AudioStreamWAV::2771654866873534317::1702945212::1702948536::1::::<><>::
+level up 2.wav::AudioStreamWAV::6188730028470575269::1702945212::1702948536::1::::<><>::
+Level up!.wav::AudioStreamWAV::1153779558423196960::1702945211::1702948536::1::::<><>::
+menu left_right.wav::AudioStreamWAV::3732025093059718122::1702945212::1702948536::1::::<><>::
+menu navigate.wav::AudioStreamWAV::8219546387714556740::1702945212::1702948536::1::::<><>::
+mission accept.wav::AudioStreamWAV::3710618229280789390::1702945212::1702948536::1::::<><>::
+move cursor 2.wav::AudioStreamWAV::7567097612208550773::1702945212::1702948536::1::::<><>::
+move sound 2.wav::AudioStreamWAV::1322149618119267346::1702945212::1702948536::1::::<><>::
+slow horse step.wav::AudioStreamWAV::2587157987275275559::1702945212::1702948536::1::::<><>::
+wall break.wav::AudioStreamWAV::8663233900630618560::1702945212::1702948536::1::::<><>::
+xp gain.wav::AudioStreamWAV::8315834840737555304::1702945212::1702948536::1::::<><>::
+::res://assets/sound/transition/::1702948441
+Battle Start 1.wav::AudioStreamWAV::3103020986216951136::1702945212::1702948536::1::::<><>::
+Battle Start 2.wav::AudioStreamWAV::7774607074101938800::1702945212::1702948536::1::::<><>::
+Chapter Clear.wav::AudioStreamWAV::5833575520873912505::1702945212::1702948536::1::::<><>::
+Chapter Start.wav::AudioStreamWAV::2438100242828028982::1702945212::1702948537::1::::<><>::
+Enemy Phase Start.wav::AudioStreamWAV::3227798403954611967::1702945212::1702948537::1::::<><>::
+Next Turn.wav::AudioStreamWAV::7388887940955718613::1702945212::1702948537::1::::<><>::
+Player Phase Start.wav::AudioStreamWAV::1405062415527568162::1702945212::1702948537::1::::<><>::
+::res://assets/sound/unitMovement/::1702948441
+Heavy Foot Steps 1.wav::AudioStreamWAV::2055073442672734122::1702945212::1702948537::1::::<><>::
+Heavy Foot Steps 2.wav::AudioStreamWAV::2237962359271222914::1702945212::1702948537::1::::<><>::
+Heavy Foot Steps 3.wav::AudioStreamWAV::4103260410213787116::1702945212::1702948537::1::::<><>::
+Heavy Foot Steps 4.wav::AudioStreamWAV::3516061558191171255::1702945212::1702948537::1::::<><>::
+Horse Steps.wav::AudioStreamWAV::6603079640872750170::1702945212::1702948537::1::::<><>::
+Light Foot Steps 1.wav::AudioStreamWAV::6089585303503312154::1702945212::1702948537::1::::<><>::
+MAP_PEGASUS_0.wav::AudioStreamWAV::4931784589162027155::1702945212::1702948537::1::::<><>::
+PEGASUS_FLAP_0.wav::AudioStreamWAV::6004422546043769274::1702945212::1702948537::1::::<><>::
+::res://assets/sound/weapon sounds/::1702948441
+Bow Shoot.wav::AudioStreamWAV::6473627194550060016::1702945212::1702948537::1::::<><>::
+Bow.wav::AudioStreamWAV::5013192017865491433::1702945212::1702948537::1::::<><>::
+Draw Weapon.wav::AudioStreamWAV::4704000753711716054::1702945212::1702948537::1::::<><>::
+Hand Axe.wav::AudioStreamWAV::3221119327472421267::1702945212::1702948536::1::::<><>::
+Legendary Weapon.wav::AudioStreamWAV::1866822089604114714::1702945212::1702948536::1::::<><>::
+Put Away Weapon.wav::AudioStreamWAV::8430367400531980674::1702945212::1702948536::1::::<><>::
+Spear Throw.wav::AudioStreamWAV::4639443462141397057::1702945212::1702948536::1::::<><>::
+::res://assets/sound/weather sounds/::1702948415
+Thunder Effect 1.wav::AudioStreamWAV::2730384134665059352::1702945212::1702948536::1::::<><>::
+Thunder Effect 2.wav::AudioStreamWAV::4598903966244674929::1702945212::1702948536::1::::<><>::
+Thunder Effect 3.wav::AudioStreamWAV::4137578516114711248::1702945212::1702948536::1::::<><>::
+::res://assets/Textures/::1702948415
+Noise Test.tres::NoiseTexture2D::-1::1702945210::0::1::::<><>::
+rain2.png::CompressedTexture2D::7738156051768151854::1702945210::1702948533::1::::<><>::
+Rain Noise Texture.tres::ShaderMaterial::-1::1702945210::0::1::::<><>::res://assets/Textures/Rain Noise.png
+Rain Noise.png::CompressedTexture2D::4125423880310947614::1702945210::1702948533::1::::<><>::
+::res://assets/transition/::1702948415
+circle.png::CompressedTexture2D::4562535900499458353::1702945212::1702948533::1::::<><>::
+diagonal.png::CompressedTexture2D::80011609740032363::1702945212::1702948532::1::::<><>::
+enemy phase.png::CompressedTexture2D::3853690112457046608::1702945212::1702948532::1::::<><>::
+leftright.png::CompressedTexture2D::865960576853488188::1702945212::1702948532::1::::<><>::
+player phase.png::CompressedTexture2D::1304095628869258112::1702945212::1702948532::1::::<><>::
+shard 3.png::CompressedTexture2D::4587577874203825615::1702945212::1702948532::1::::<><>::
+shards.png::CompressedTexture2D::1262401226734660784::1702945212::1702948532::1::::<><>::
+shards_02.png::CompressedTexture2D::1992331187528308971::1702945212::1702948532::1::::<><>::
+topdown.png::CompressedTexture2D::6915002725458961839::1702945212::1702948532::1::::<><>::
+white flash.png::CompressedTexture2D::3687598513360381620::1702945212::1702948532::1::::<><>::
+::res://assets/UI/::1702945210
+::res://assets/UI/Action Selector/::1702948414
+bottom.png::CompressedTexture2D::950849427242238546::1702945210::1702948532::1::::<><>::
+mid.png::CompressedTexture2D::2330750291337345794::1702945210::1702948532::1::::<><>::
+top.png::CompressedTexture2D::7483529131288611463::1702945210::1702948532::1::::<><>::
+::res://assets/UI/combatUI/::1702948416
+Battle Backgrounds.png::CompressedTexture2D::377920136111782863::1702945210::1702948533::1::::<><>::
+combatUI.png::CompressedTexture2D::8927816957973095093::1702945210::1702948533::1::::<><>::
+Empty HP Battle UI.png::CompressedTexture2D::3881206957210386104::1702945210::1702948532::1::::<><>::
+Forest.png::CompressedTexture2D::3120182257119799812::1702945210::1702948532::1::::<><>::
+Fortress.png::CompressedTexture2D::6461500111774163015::1702945210::1702948533::1::::<><>::
+Full HP Battle UI.png::CompressedTexture2D::223027766415564272::1702945210::1702948533::1::::<><>::
+Mountain.png::CompressedTexture2D::415150466111986610::1702945210::1702948533::1::::<><>::
+Plains.png::CompressedTexture2D::513432608174128445::1702945210::1702948533::1::::<><>::
+River.png::CompressedTexture2D::6832552480345436247::1702945210::1702948533::1::::<><>::
+Sea.png::CompressedTexture2D::5445990319799838066::1702945210::1702948533::1::::<><>::
+Village.png::CompressedTexture2D::2036993705564312555::1702945210::1702948533::1::::<><>::
+::res://assets/UI/Damage Preview/::1702948416
+damageBox.png::CompressedTexture2D::7977269956200065573::1702945210::1702948533::1::::<><>::
+::res://assets/UI/Damage Preview/Cursor/::1702948416
+cursor.png::CompressedTexture2D::7809288680515429287::1702945210::1702948533::1::::<><>::
+hand.png::CompressedTexture2D::5701739482356107215::1702945210::1702948533::1::::<><>::
+staticCursor.png::CompressedTexture2D::5835062670505513417::1702945210::1702948533::1::::<><>::
+::res://assets/UI/Inventory/::1702948416
+bottom inventory.png::CompressedTexture2D::1134233707099511906::1702945210::1702948533::1::::<><>::
+equip discard box.png::CompressedTexture2D::7690421458297434115::1702945210::1702948533::1::::<><>::
+middle.png::CompressedTexture2D::7430655243772888862::1702945210::1702948533::1::::<><>::
+top inventory.png::CompressedTexture2D::3970206270364552864::1702945210::1702948533::1::::<><>::
+::res://assets/UI/Item Preview/::1702948416
+bottomDecoration.png::CompressedTexture2D::2411857118819086695::1702945210::1702948533::1::::<><>::
+itemBox.png::CompressedTexture2D::1576064632696784278::1702945210::1702948533::1::::<><>::
+itemBoxNoDeco.png::CompressedTexture2D::7760175102464095626::1702945210::1702948533::1::::<><>::
+topDecoration.png::CompressedTexture2D::6071496939994337345::1702945210::1702948533::1::::<><>::
+::res://assets/UI/Panels/::1702948415
+emptyHealthBar.png::CompressedTexture2D::1036445482065457486::1702945210::1702948533::1::::<><>::
+fullHealthBar.png::CompressedTexture2D::8342122179308552437::1702945210::1702948532::1::::<><>::
+terrainInfoBox.png::CompressedTexture2D::1743813076394226996::1702945210::1702948532::1::::<><>::
+unitInfoBox.png::CompressedTexture2D::7751704292693940861::1702945210::1702948532::1::::<><>::
+victoryConditionBox.png::CompressedTexture2D::7724850970163135391::1702945210::1702948532::1::::<><>::
+::res://assets/UI/shop/::1702948412
+Anna portrait.png::CompressedTexture2D::8626938008472749001::1702945210::1702948532::1::::<><>::
+Shop Background 2.png::CompressedTexture2D::7879465051411902604::1702945210::1702948532::1::::<><>::
+Shop Background.png::CompressedTexture2D::116414447307181763::1702945210::1702948532::1::::<><>::
+shop bg 2.jpg::CompressedTexture2D::1896567871894006930::1702945210::1702948533::1::::<><>::
+::res://assets/UI/Square Selectors/::1702948411
+Animated Selectors.png::CompressedTexture2D::459843663012813922::1702945210::1702948532::1::::<><>::
+bluedarkSelect.png::CompressedTexture2D::4176312820897022819::1702945210::1702948532::1::::<><>::
+greenSelect.png::CompressedTexture2D::8910190646349714985::1702945210::1702948532::1::::<><>::
+redselect.png::CompressedTexture2D::7279299177857401699::1702945210::1702948532::1::::<><>::
+::res://assets/UI/trade/::1702948411
+Top Trade.png::CompressedTexture2D::7574542080718611847::1702945210::1702948532::1::::<><>::
+::res://assets/UI/Weapon Select/::1702948411
+bottomDecoration.png::CompressedTexture2D::8992342620111778117::1702945210::1702948532::1::::<><>::
+itemBox.png::CompressedTexture2D::4275139552219856581::1702945210::1702948532::1::::<><>::
+itemBoxNoDeco.png::CompressedTexture2D::2318932437334432328::1702945210::1702948532::1::::<><>::
+topDecoration.png::CompressedTexture2D::1707216595884983052::1702945210::1702948532::1::::<><>::
+::res://assets/UI/XP and Level/::1702948414
+Level Up Panel Mag.png::CompressedTexture2D::4709359379641272287::1702945210::1702948532::1::::<><>::
+Level Up Panel.png::CompressedTexture2D::1337748367293697751::1702945210::1702948532::1::::<><>::
+Level Up.png::CompressedTexture2D::3953437340057349436::1702945210::1702948532::1::::<><>::
+more_stat.png::CompressedTexture2D::5199183622905266772::1702945210::1702948532::1::::<><>::
+xp_empty_bar.png::CompressedTexture2D::3714152329990682921::1702945210::1702948532::1::::<><>::
+xp_full_bar.png::CompressedTexture2D::8789569437723597539::1702945210::1702948532::1::::<><>::
+xp_ui.png::CompressedTexture2D::8499413260743006666::1702945210::1702948532::1::::<><>::
+::res://assets/units/::1702948417
+allSprites.png::CompressedTexture2D::867005489153397559::1702945212::1702948532::1::::<><>::
+more map sprites.png::CompressedTexture2D::6420846305012451912::1702945212::1702948533::1::::<><>::
+Mugshots.png::CompressedTexture2D::6596417072134791946::1702945212::1702948532::1::::<><>::
+::res://assets/units/archer/::1702948414
+archer ally.png::CompressedTexture2D::4833566757562986107::1702945212::1702948532::1::::<><>::
+black archer crit.png::CompressedTexture2D::6747919806706178238::1702945212::1702948532::1::::<><>::
+black archer regular.png::CompressedTexture2D::2123174957375975463::1702945212::1702948532::1::::<><>::
+black archer.png::CompressedTexture2D::7332444908867016992::1702945212::1702948532::1::::<><>::
+Naomi.png::CompressedTexture2D::2429634570941855648::1702945212::1702948532::1::::<><>::
+neimi archer regular.png::CompressedTexture2D::3961956239939871384::1702945212::1702948532::1::::<><>::
+neimi crit bow.png::CompressedTexture2D::7338678564381716840::1702945212::1702948532::1::::<><>::
+::res://assets/units/bandit/::1702948414
+bandit mugshot.png::CompressedTexture2D::8056741554333056651::1702945212::1702948532::1::::<><>::
+banditBlue.png::CompressedTexture2D::2444829118645667595::1702945212::1702948532::1::::<><>::
+banditBlueGrey.png::CompressedTexture2D::4197791293933003218::1702945212::1702948532::1::::<><>::
+banditRed.png::CompressedTexture2D::7048957920482335091::1702945212::1702948533::1::::<><>::
+bandit_black.png::CompressedTexture2D::4910101036509362015::1702945212::1702948533::1::::<><>::
+fighterRegular.png::CompressedTexture2D::2734709214396655090::1702945212::1702948534::1::::<><>::
+fighter_Regular_black.png::CompressedTexture2D::3744006777615062105::1702945212::1702948534::1::::<><>::
+::res://assets/units/cavalier/::1702948425
+cavalier enemy.png::CompressedTexture2D::6659454674860115974::1702945212::1702948533::1::::<><>::
+cavalierAlly.png::CompressedTexture2D::4766949245129731298::1702945212::1702948533::1::::<><>::
+cavalierAllyGreyScale.png::CompressedTexture2D::6431966299268538354::1702945212::1702948533::1::::<><>::
+paladin lance crit.png::CompressedTexture2D::3576267915913031628::1702945212::1702948533::1::::<><>::
+Paladin Lance Regular.png::CompressedTexture2D::1091793574155453952::1702945212::1702948533::1::::<><>::
+Seth Battle.png::CompressedTexture2D::6421297396784066508::1702945212::1702948534::1::::<><>::
+Seth Critical Sword.png::CompressedTexture2D::6407350770692861072::1702945212::1702948533::1::::<><>::
+seth mugshot.png::CompressedTexture2D::3254303007819765111::1702945212::1702948533::1::::<><>::
+Seth Regular Sword.png::CompressedTexture2D::4145426578677991851::1702945212::1702948533::1::::<><>::
+sethPortrait.png::CompressedTexture2D::5144771474441138603::1702945212::1702948533::1::::<><>::
+::res://assets/units/cleric/::1702948425
+cleric_map_sprite.png::CompressedTexture2D::5006318196529340991::1702945212::1702948533::1::::<><>::
+Heal Restore.png::CompressedTexture2D::4506285762379592962::1702945212::1702948533::1::::<><>::
+Natasha Combat.png::CompressedTexture2D::2118142207741894702::1702945212::1702948533::1::::<><>::
+natasha mugshot.png::CompressedTexture2D::1462830529524737565::1702945212::1702948533::1::::<><>::
+natasha portrait.png::CompressedTexture2D::2694487945104673046::1702945212::1702948533::1::::<><>::
+::res://assets/units/corrin/::1702948425
+3DS - Fire Emblem Fates - Hoshido Noble Female.png::CompressedTexture2D::459461347849791657::1702945212::1702948534::1::::<><>::
+Corrin Female head.png::CompressedTexture2D::5087371335596042262::1702945212::1702948535::1::::<><>::
+::res://assets/units/darkmage/::1702948424
+Dark Mage Combat.png::CompressedTexture2D::2147161994062824957::1702945212::1702948534::1::::<><>::
+darkmage.png::CompressedTexture2D::4818809593412122311::1702945212::1702948534::1::::<><>::
+::res://assets/units/eirika/::1702948424
+Eirika Alt.png::CompressedTexture2D::8193215003887148305::1702945212::1702948534::1::::<><>::
+Eirika Combat Sprites.png::CompressedTexture2D::1923202916217217173::1702945212::1702948534::1::::<><>::
+eirika copy.png::CompressedTexture2D::6988858767595783562::1702945212::1702948534::1::::<><>::
+eirika grey.png::CompressedTexture2D::2512873080066378751::1702945212::1702948534::1::::<><>::
+Eirika Idle Anim.tres::Animation::-1::1702945212::0::1::::<><>::
+eirika mugshot.png::CompressedTexture2D::6045048897589827040::1702945212::1702948534::1::::<><>::
+eirika.png::CompressedTexture2D::2116116223730734962::1702945212::1702948534::1::::<><>::
+eirikaPortrait.png::CompressedTexture2D::5048922036232721189::1702945212::1702948534::1::::<><>::
+erikaBattleAnimation.png::CompressedTexture2D::3218404847488358559::1702945212::1702948534::1::::<><>::
+::res://assets/units/enemyPortrait/::1702948429
+Diagur Portrait.png::CompressedTexture2D::5766719502982614509::1702945212::1702948534::1::::<><>::
+Main Villain MugShot.png::CompressedTexture2D::410352182898666612::1702945212::1702948534::1::::<><>::
+Main Villain.png::CompressedTexture2D::8574844140634550760::1702945212::1702948534::1::::<><>::
+normalSoldierPortrait.png::CompressedTexture2D::604439261135927263::1702945212::1702948534::1::::<><>::
+red soldier portrait.png::CompressedTexture2D::3419653200953563712::1702945212::1702948534::1::::<><>::
+::res://assets/units/general/::1702948429
+enemy_general black.png::CompressedTexture2D::1382815247509742335::1702945212::1702948534::1::::<><>::
+enemy_general.png::CompressedTexture2D::7441438344438633430::1702945212::1702948534::1::::<><>::
+enemy_general_crit.png::CompressedTexture2D::7264823299874136244::1702945212::1702948536::1::::<><>::
+General Ally.png::CompressedTexture2D::6527583562008448588::1702945212::1702948533::1::::<><>::
+general axe black.png::CompressedTexture2D::1786938969451114105::1702945212::1702948533::1::::<><>::
+general black.png::CompressedTexture2D::2904183053840145894::1702945212::1702948533::1::::<><>::
+general crit axe black.png::CompressedTexture2D::3210516660421534805::1702945212::1702948533::1::::<><>::
+general crit red.png::CompressedTexture2D::6840159891053863761::1702945212::1702948533::1::::<><>::
+::res://assets/units/knight/::1702948426
+ally knight spear critical.png::CompressedTexture2D::4163492029055011782::1702945212::1702948533::1::::<><>::
+ally knight spear.png::CompressedTexture2D::8927329199702199400::1702945212::1702948533::1::::<><>::
+enemy knight crit lance.png::CompressedTexture2D::7683842069632547329::1702945212::1702948533::1::::<><>::
+enemy knight regular spear.png::CompressedTexture2D::4132485882662953589::1702945212::1702948533::1::::<><>::
+gilliam portrait.png::CompressedTexture2D::301299798437045288::1702945212::1702948533::1::::<><>::
+knight ally.png::CompressedTexture2D::3585227850858053811::1702945212::1702948533::1::::<><>::
+::res://assets/units/mage/::1702948425
+ally mage regular.png::CompressedTexture2D::4678676037580714511::1702945212::1702948533::1::::<><>::
+ewan portrait.png::CompressedTexture2D::5861914944878259819::1702945212::1702948533::1::::<><>::
+mage ally crit.png::CompressedTexture2D::2410062146695523345::1702945212::1702948533::1::::<><>::
+mage ally.png::CompressedTexture2D::7496258691595786289::1702945212::1702948533::1::::<><>::
+::res://assets/units/pegasus knight/::1702948418
+ally pegasus knight.png::CompressedTexture2D::626912029464086709::1702945212::1702948533::1::::<><>::
+enemy pegasus knight.png::CompressedTexture2D::488612057932306323::1702945212::1702948533::1::::<><>::
+enemy pegasus lance crit.png::CompressedTexture2D::8651298271807166357::1702945212::1702948533::1::::<><>::
+enemy pegasus lance regular.png::CompressedTexture2D::4559056406809003945::1702945212::1702948533::1::::<><>::
+vanessa lance crit.png::CompressedTexture2D::8372206715555263289::1702945212::1702948533::1::::<><>::
+vanessa lance regular.png::CompressedTexture2D::458037589714170214::1702945212::1702948533::1::::<><>::
+Vanessa Portrait.png::CompressedTexture2D::3466000912083930467::1702945212::1702948533::1::::<><>::
+::res://assets/units/soldier/::1702948417
+soldier_black.png::CompressedTexture2D::4424209803142288832::1702945212::1702948533::1::::<><>::
+soldier_blue.png::CompressedTexture2D::8497767260283294750::1702945212::1702948533::1::::<><>::
+soldier_blue_portrait.png::CompressedTexture2D::5756559673857475464::1702945212::1702948533::1::::<><>::
+soldier_red.png::CompressedTexture2D::7508420434874156089::1702945212::1702948533::1::::<><>::
+::res://assets/units/Swordmaster female/::1702948417
+Lyn Swordman.png::CompressedTexture2D::7358367155980434854::1702945212::1702948533::1::::<><>::
+::res://assets/units/thief/::1702948417
+colm crit.png::CompressedTexture2D::5075110205191708889::1702945212::1702948533::1::::<><>::
+colm portrait.png::CompressedTexture2D::5817700099447296812::1702945212::1702948533::1::::<><>::
+colm regular.png::CompressedTexture2D::2103629718943849531::1702945212::1702948533::1::::<><>::
+Thief Blue Ally.png::CompressedTexture2D::495860281922122055::1702945212::1702948533::1::::<><>::
+::res://assets/voice/::1702948512
+Can't do that.wav::AudioStreamWAV::8789255454719652181::1702945212::1702948536::1::::<><>::
+Choose your weapon.wav::AudioStreamWAV::6724929246743831977::1702945212::1702948536::1::::<><>::
+Come again jpn.wav::AudioStreamWAV::7360962795405421779::1702945212::1702948536::1::::<><>::
+Come Again.ogg::AudioStreamOggVorbis::5125358772237924157::1702945212::1702948512::1::::<><>::
+is that okay.wav::AudioStreamWAV::2531894899558467365::1702945212::1702948536::1::::<><>::
+Let's go.wav::AudioStreamWAV::7644799743439289666::1702945212::1702948536::1::::<><>::
+Not enough money.wav::AudioStreamWAV::1669577269342953774::1702945212::1702948536::1::::<><>::
+Shop Entrance Greeting.ogg::AudioStreamOggVorbis::6349509932975701480::1702945212::1702948512::1::::<><>::
+Shop Entrance Greeting.wav::AudioStreamWAV::8935052316226833575::1702945212::1702948536::1::::<><>::
+take your time.wav::AudioStreamWAV::4285182659735386729::1702945212::1702948536::1::::<><>::
+Thank you JPN.wav::AudioStreamWAV::3992042941390485234::1702945212::1702948536::1::::<><>::
+Thanks for patronage.wav::AudioStreamWAV::413071453214465740::1702945212::1702948536::1::::<><>::
+That's dissapointing.wav::AudioStreamWAV::1240687005447215569::1702945212::1702948536::1::::<><>::
+Welcome JPN.wav::AudioStreamWAV::356735425698207::1702945212::1702948536::1::::<><>::
+::res://assets/walkable maps/::1702948444
+::res://assets/world map/::1702948423
+world map.png::CompressedTexture2D::4138620795232144023::1702945212::1702948533::1::::<><>::
+::res://Database/::1702945210
+::res://Database/Classes/::1702945210
+Class_Data.gd::GDScript::-1::1702945210::0::1::::ClassData<>Resource<>::
+::res://Database/Classes/Duelist/::1702945210
+Base_Stats_Duelist.tres::Resource::-1::1702945210::0::1::::<><>::res://Database/Stats/Base_Stat_Container.gd
+Class_Duelist.tres::Resource::-1::1702945210::0::1::::<><>::res://Database/Classes/Class_Data.gd<>res://Database/Weapons/Swords/Sword.tres<>res://Database/Classes/Duelist/Base_Stats_Duelist.tres<>res://Database/Classes/Duelist/Max_Stats_Duelist.tres
+Max_Stats_Duelist.tres::Resource::-1::1702945210::0::1::::<><>::res://Database/Stats/Base_Stat_Container.gd
+::res://Database/Classes/Mercenary/::1702945210
+Base_Stats_Mercenary.tres::Resource::-1::1702945210::0::1::::<><>::res://Database/Stats/Base_Stat_Container.gd
+Class_Mercenary.tres::Resource::-1::1702945210::0::1::::<><>::res://Database/Classes/Class_Data.gd<>res://Database/Classes/Mercenary/Base_Stats_Mercenary.tres<>res://Database/Weapons/Swords/Sword.tres
+::res://Database/Maps/::1702945210
+Map_Data.gd::GDScript::-1::1702945210::0::1::::<>Resource<>::
+::res://Database/Stats/::1702945210
+Base_Stat_Container.gd::GDScript::-1::1702945210::0::1::::BaseStatContainer<>Resource<>::
+Stat.gd::GDScript::-1::1702945210::0::1::::Stat<>Resource<>::
+::res://Database/Units/::1702945210
+Unit_Data.gd::GDScript::-1::1702945210::0::1::::UnitData<>Resource<>::
+::res://Database/Units/Eirika/::1702945210
+Base_Stats_Eirika.tres::Resource::-1::1702945210::0::1::::<><>::res://Database/Stats/Base_Stat_Container.gd
+Unit_Eirika.tres::Resource::-1::1702945210::0::1::::<><>::res://Database/Units/Unit_Data.gd<>res://Database/Units/Eirika/Base_Stats_Eirika.tres
+::res://Database/Units/Marth/::1702945210
+Unit_Marth.tres::Resource::-1::1702945210::0::1::::<><>::res://Database/Units/Unit_Data.gd
+::res://Database/Weapons/::1702945210
+Weapon_Data.gd::GDScript::-1::1702945210::0::1::::Weapon<>Resource<>::
+Weapon_Type.gd::GDScript::-1::1702945210::0::1::::WeaponType<>Resource<>::
+::res://Database/Weapons/Arcane/::1702945210
+Arcane.tres::Resource::-1::1702945210::0::1::::<><>::res://Database/Weapons/Weapon_Type.gd
+::res://Database/Weapons/Axes/::1702945210
+Axe.tres::Resource::-1::1702945210::0::1::::<><>::res://Database/Weapons/Weapon_Type.gd
+::res://Database/Weapons/Bows/::1702945210
+Bow.tres::Resource::-1::1702945210::0::1::::<><>::res://Database/Weapons/Weapon_Type.gd
+::res://Database/Weapons/Brawl/::1702945210
+Brawl.tres::Resource::-1::1702945210::0::1::::<><>::res://Database/Weapons/Weapon_Type.gd
+::res://Database/Weapons/Cosmic/::1702945210
+Cosmic.tres::Resource::-1::1702945210::0::1::::<><>::res://Database/Weapons/Weapon_Type.gd
+::res://Database/Weapons/Daggers/::1702945210
+Dagger.tres::Resource::-1::1702945210::0::1::::<><>::res://Database/Weapons/Weapon_Type.gd
+::res://Database/Weapons/Faith/::1702945210
+Faith.tres::Resource::-1::1702945210::0::1::::<><>::res://Database/Weapons/Weapon_Type.gd
+::res://Database/Weapons/Lances/::1702945210
+Lance.tres::Resource::-1::1702945210::0::1::::<><>::res://Database/Weapons/Weapon_Type.gd
+::res://Database/Weapons/Nature/::1702945210
+Nature.tres::Resource::-1::1702945210::0::1::::<><>::res://Database/Weapons/Weapon_Type.gd
+::res://Database/Weapons/Reason/::1702945210
+Reason.tres::Resource::-1::1702945210::0::1::::<><>::res://Database/Weapons/Weapon_Type.gd
+::res://Database/Weapons/Staves/::1702945210
+Staff.tres::Resource::-1::1702945210::0::1::::<><>::res://Database/Weapons/Weapon_Type.gd
+::res://Database/Weapons/Storm/::1702945210
+Storm.tres::Resource::-1::1702945210::0::1::::<><>::res://Database/Weapons/Weapon_Type.gd
+::res://Database/Weapons/Swords/::1702945210
+Iron_Sword.tres::Resource::-1::1702945210::0::1::::<><>::res://Database/Weapons/Weapon_Data.gd<>res://Database/Weapons/Swords/Sword.tres
+Sword.tres::Resource::-1::1702945210::0::1::::<><>::res://Database/Weapons/Weapon_Type.gd
+::res://Docs/::1702945210
+::res://Docs/Data/::1702945210
+::res://Docs/Dev/::1702945210
+::res://Engine/::1702945210
+::res://Engine/Data Structures/::1702945210
+CellPriorityQueue.gd::GDScript::-1::1702945210::0::1::::CellPriorityQueue<>RefCounted<>::
+HashSet.gd::GDScript::-1::1702945210::0::1::::HashSet<>RefCounted<>::
+Linked_List.gd::GDScript::-1::1702945210::0::1::::LinkedList<>Reference<>::
+::res://Engine/MovementUtilities/::1702945210
+Movement Arrow.gd::GDScript::-1::1702945210::0::1::::Movement_Arrow<>Node<>::
+MovementCalculator.gd::GDScript::-1::1702945210::0::1::::MovementCalculator<>Reference<>::
+::res://Engine/Save System/::1702945210
+SaveLoadSystem.gd::GDScript::-1::1702945210::0::1::::SaveLoadSystem<>Node<>::
+::res://Engine/Systems/::1702945210
+Calculators.gd::GDScript::-1::1702945210::0::1::::<>Node<>::
+Event System Parser.gd::GDScript::-1::1702945210::0::1::::<>Node<>::
+Event System.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Engine/Systems/Events System.gd
+Events System.gd::GDScript::-1::1702945210::0::1::::Event_System<>Node<>::
+Game Settings.gd::GDScript::-1::1702945210::0::1::::<>Control<>::
+Game Settings.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/backgrounds/FE BG 5.jpg<>res://Engine/Systems/Game Settings.gd<>res://assets/music/Destiny - Fire Emblem Awakening.ogg<>res://assets/font/Main Font.ttf
+GameSystem.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Battlefield/BattlefieldInfo.gd
+Group Names.gd::GDScript::-1::1702945210::0::1::::Group_Name<>Node<>::
+TileUnitUpdater.gd::GDScript::-1::1702945210::0::1::::TileUnitUpdater<>Node<>::
+TileUnitUpdater.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Engine/Systems/TileUnitUpdater.gd<>res://assets/sound/battle sounds/Heal type sound 2.wav<>res://assets/sound/battle sounds/Damage taken.wav
+Turn Manager.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Engine/Systems/Turn_Manager.gd
+Turn_Manager.gd::GDScript::-1::1702945210::0::1::::Turn_Manager<>Node<>::
+Unit_Movement_System.gd::GDScript::-1::1702945210::0::1::::Unit_Movement_System<>Node<>::
+Unit_Movement_System_Cinematic.gd::GDScript::-1::1702945210::0::1::::Unit_Movement_System_Cinematic<>Node<>::
+Victory Checker.gd::GDScript::-1::1702945210::0::1::::Victory_Checker<>Node<>::
+Victory Checker.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Engine/Systems/Victory Checker.gd
+::res://Engine/Tests/::1702945210
+LLTest.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+LLTest.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Engine/Tests/LLTest.gd
+New Event System.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+New Event System.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Engine/Tests/New Event System.gd
+New Grid Test Level.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://New Scenes/Grid/Grid.gd
+Script Test Scene 2.gd::GDScript::-1::1702945210::0::1::::<>Control<>::
+Script Test Scene 2.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Engine/Tests/Script Test Scene 2.gd<>res://icon.png
+Script Test Scene.gd::GDScript::-1::1702945210::0::1::::<>Control<>::
+Script Test Scene.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Engine/Tests/Script Test Scene.gd<>res://icon.png
+test_Node.gd::GDScript::-1::1702945210::0::1::::<>Node<>::
+::res://New Scenes/::1702945210
+Initial Test Map.tscn::PackedScene::-1::1702945210::0::1::::<><>::
+::res://New Scenes/Condition/::1702945210
+Condition.gd::GDScript::-1::1702945210::0::1::::Condition<>Resource<>::
+::res://New Scenes/Grid/::1702945210
+Grid.gd::GDScript::-1::1702945210::0::1::::Grid<>Node2D<>::
+::res://Save/::1702945210
+::res://Save/Chapter 2/::1702945210
+::res://Save/Chapter 3/::1702945210
+::res://Scenes/::1702945210
+::res://Scenes/AI/::1702945210
+AI.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+AI.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/AI/AI.gd
+::res://Scenes/Audio/::1702945210
+Battle Sounds.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/sound/battle sounds/Attack 1.wav<>res://assets/sound/battle sounds/Attack 2.wav<>res://assets/sound/battle sounds/Attack 3.wav<>res://assets/sound/battle sounds/Attack 4.wav<>res://assets/sound/battle sounds/Attack Hit 1.wav<>res://assets/sound/battle sounds/Attack Hit 2.wav<>res://assets/sound/battle sounds/Attack Hit 3.wav<>res://assets/sound/battle sounds/Attack Hit 4.wav<>res://assets/sound/battle sounds/Attack Miss 1.wav<>res://assets/sound/battle sounds/Attack Miss 2.wav<>res://assets/sound/battle sounds/Attack Miss 3.wav<>res://assets/sound/battle sounds/Critical Hit 1.wav<>res://assets/sound/battle sounds/Critical Hit 2.wav<>res://assets/sound/battle sounds/Final Hit.wav<>res://assets/sound/battle sounds/Death.wav
+Extra Sound Effects.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/sound/misc/DOOR_OPEN_1.wav
+MusicPlayer.gd::GDScript::-1::1702945210::0::1::::Music_Player<>Node<>::
+MusicPlayer.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Audio/MusicPlayer.gd<>res://assets/music/Fodlan Winds.ogg<>res://assets/music/Chasing Daybreak.ogg<>res://assets/music/Unfufilled.ogg
+Weapon Sounds.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/sound/weapon sounds/Bow Shoot.wav<>res://assets/sound/weapon sounds/Bow.wav<>res://assets/sound/weapon sounds/Draw Weapon.wav<>res://assets/sound/weapon sounds/Hand Axe.wav<>res://assets/sound/weapon sounds/Legendary Weapon.wav<>res://assets/sound/weapon sounds/Put Away Weapon.wav<>res://assets/sound/weapon sounds/Spear Throw.wav
+::res://Scenes/Battlefield/::1702945210
+Battlefield Container.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+BattlefieldInfo.gd::GDScript::-1::1702945210::0::1::::<>Node<>::
+Chapter 2.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Chapter 2.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Battlefield/Chapter 2.gd<>res://Scenes/Levels/Level3.tscn
+Chapter 3.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Battlefield/Battlefield Container.gd<>res://Scenes/Levels/level2.tscn
+Chapter 4.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Chapter 4.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Battlefield/Chapter 4.gd<>res://Scenes/Levels/Level4a.tscn
+Chapter 5.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Chapter 5.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Battlefield/Chapter 5.gd<>res://Scenes/Levels/Level5.tscn
+Level.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Level.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Battlefield/Level.gd<>res://Scenes/GUI/Cursor/Cursor.tscn<>res://Scenes/Camera/GameCamera.tscn<>res://Scenes/Transition/Turn Transition.tscn<>res://Scenes/GUI/Overhead/GUI Areas.tscn<>res://Scenes/Combat/Combat Screen.tscn<>res://Scenes/GUI/Overhead/BattlefieldHUD.tscn<>res://Scenes/GUI/Action Selector/Action Selector.tscn<>res://Scenes/GUI/End Turn/End Turn.tscn<>res://Scenes/GUI/Weapon Select/Weapon Select.tscn<>res://Scenes/GUI/Weapon Select/Healing Select.tscn<>res://Scenes/GUI/Damage Preview/Damage Preview.tscn<>res://Scenes/GUI/Damage Preview/Healing Preview.tscn<>res://Scenes/Messaging/Message System.tscn<>res://Scenes/GUI/Item Screen/Item Screen.tscn<>res://Scenes/GUI/Trade/Trade Screen.tscn<>res://Scenes/GUI/Unit Info/Unit Info Screen.tscn<>res://Scenes/Preparation Screen/Preparation Screen.tscn<>res://Engine/Systems/Event System.tscn
+::res://Scenes/Camera/::1702945210
+GameCamera.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Camera/MainCamera.gd
+MainCamera.gd::GDScript::-1::1702945210::0::1::::MainCamera<>Camera2D<>::
+MovementCamera.gd::GDScript::-1::1702945210::0::1::::<>Camera2D<>::
+MovementCamera.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Camera/MovementCamera.gd
+::res://Scenes/Chapter/::1702945210
+Chapter Background.gd::GDScript::-1::1702945210::0::1::::<>CanvasLayer<>::
+Chapter Background.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Chapter/Chapter Background.gd<>res://assets/chapter image/Chapter Background.png<>res://assets/sound/transition/Player Phase Start.wav
+::res://Scenes/Combat/::1702945210
+Combat Camera.gd::GDScript::-1::1702945210::0::1::::<>Camera2D<>::
+Combat Screen.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Combat/Combat.gd<>res://assets/UI/combatUI/Plains.png<>res://assets/UI/combatUI/combatUI.png<>res://assets/font/Main Font.ttf<>res://assets/UI/combatUI/Empty HP Battle UI.png<>res://assets/UI/combatUI/Full HP Battle UI.png<>res://icon.png<>res://Scenes/Combat/Up Arrow Combat.tscn<>res://Scenes/Combat/Down Arrow Combat.tscn<>res://Scenes/GUI/XP and Level/XP Screen.tscn<>res://Scenes/GUI/XP and Level/Level Up Screen.tscn<>res://Scenes/Combat/Item Broke Screen.tscn<>res://Scenes/Combat/Miss.tscn<>res://Scenes/Transition/Combat Transition.tscn
+Combat.gd::GDScript::-1::1702945210::0::1::::Combat_Screen<>Control<>::
+Combat_Calculator.gd::GDScript::-1::1702945210::0::1::::<>Node<>::
+Double Attack Logo.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Double Attack Logo.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Combat/Double Attack Logo.gd<>res://assets/battle_effects/2x.png
+Down Arrow Combat.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Down Arrow Combat.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Combat/Down Arrow Combat.gd<>res://assets/battle_effects/Down Arrow.png
+Item Broke Screen.gd::GDScript::-1::1702945210::0::1::::<>Control<>::
+Item Broke Screen.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Combat/Item Broke Screen.gd<>res://assets/sound/misc/item broke.wav<>res://assets/UI/Panels/unitInfoBox.png<>res://FE Icon.jpg<>res://assets/font/Main Font.ttf
+Miss.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/battle_effects/Miss Sprite.png
+Up Arrow Combat.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Up Arrow Combat.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Combat/Up Arrow Combat.gd<>res://assets/battle_effects/Up Arrow.png
+::res://Scenes/Convoy/::1702945210
+Convoy Canvas Layer.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Convoy/Convoy UI.tscn
+Convoy UI.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Convoy/Convoy.gd<>res://Scenes/GUI/Hand Cursor/Hand Selector.tscn<>res://Scenes/Convoy/Item_List_Scene.tscn<>res://assets/music/Swift As Wind.wav<>res://assets/backgrounds/FE BG 4.jpg<>res://assets/font/Main Font.ttf<>res://Scenes/GUI/Unit Selectors/Unit Picker Solo.tscn<>res://assets/font/Action Selector Font.tres<>res://Scenes/GUI/Unit Inventory Display/Unit Inventory Display.tscn<>res://Scenes/GUI/Item Screen/Yes No Box Generic.tscn
+Convoy.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Item_List_Scene.gd::GDScript::-1::1702945210::0::1::::<>ColorRect<>::
+Item_List_Scene.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/font/Weapon Name.tres<>res://Scenes/Convoy/Item_List_Scene.gd<>res://assets/font/Main Font.ttf<>res://Scenes/GUI/Hand Cursor/Hand Selector.tscn
+::res://Scenes/Events/::1702945210
+Event Base.gd::GDScript::-1::1702945210::0::1::::Event_Base<>Node2D<>::
+::res://Scenes/Events/Level 1/::1702945210
+Event Loader L1.gd::GDScript::-1::1702945210::0::1::::<>Node<>::
+L1 Event Part 10.gd::GDScript::-1::1702945210::0::1::::L1_Event_Part_10<>Event_Base<>::
+L1 Event Part 20.gd::GDScript::-1::1702945210::0::1::::L1_Event_Part_20<>Event_Base<>::
+L1 Event Part 30.gd::GDScript::-1::1702945210::0::1::::L1_Event_Part_30<>Event_Base<>::
+::res://Scenes/Events/Level 2/::1702945210
+Event Loader L2.gd::GDScript::-1::1702945210::0::1::::<>Node<>::
+L2 Event Mid 10.gd::GDScript::-1::1702945210::0::1::::L2_Event_Mid_10<>Event_Base<>::
+L2 Event Mid 20.gd::GDScript::-1::1702945210::0::1::::L2_Event_Mid_20<>Event_Base<>::
+L2 Event Part 05.gd::GDScript::-1::1702945210::0::1::::L2_Event_Part05<>Node2D<>::
+L2 Event Part 10.gd::GDScript::-1::1702945210::0::1::::L2_Event_Part1<>Node2D<>::
+L2 Event Part 20.gd::GDScript::-1::1702945210::0::1::::L2_Event_Part2<>Node2D<>::
+L2 Event Part 30.gd::GDScript::-1::1702945210::0::1::::L2_Event_Part3<>Node2D<>::
+L2 Event Part 40.gd::GDScript::-1::1702945210::0::1::::L2_Event_Part4<>Node2D<>::
+L2 Event Part 50.gd::GDScript::-1::1702945210::0::1::::L2_Event_Part5<>Node2D<>::
+Level 2 Spawn.gd::GDScript::-1::1702945210::0::1::::<>Spawn_Event<>::
+::res://Scenes/Events/Level 3/::1702945210
+Event Loader L3.gd::GDScript::-1::1702945210::0::1::::<>Node<>::
+L3 Event Part 10.gd::GDScript::-1::1702945210::0::1::::L3_Event_Part10<>Node2D<>::
+L3 Event Part 20.gd::GDScript::-1::1702945210::0::1::::L3_Event_Part20<>Node2D<>::
+L3 Event Part 30.gd::GDScript::-1::1702945210::0::1::::L3_Event_Part30<>Node2D<>::
+::res://Scenes/Events/Level 4/::1702945210
+L4 Event Part 10.gd::GDScript::-1::1702945210::0::1::::L4_Event_Part10<>Node2D<>::
+::res://Scenes/Events/Special Events/::1702945210
+Spawn Enemies.gd::GDScript::-1::1702945210::0::1::::Spawn_Event<>Node2D<>::
+::res://Scenes/Events/World Map Events/::1702945210
+Level 1 WM Event Part 10.gd::GDScript::-1::1702945210::0::1::::Level1_WM_Event_Part10<>World_Map_Event<>::
+Level 2 WM Event Part 10.gd::GDScript::-1::1702945210::0::1::::Level2_WM_Event_Part10<>World_Map_Event<>::
+Level 3 WM Event Part 10.gd::GDScript::-1::1702945210::0::1::::Level3_WM_Event_Part10<>World_Map_Event<>::
+Level 4 WM Event Part 10.gd::GDScript::-1::1702945210::0::1::::Level4_WM_Event_Part10<>World_Map_Event<>::
+World Map Event.gd::GDScript::-1::1702945210::0::1::::World_Map_Event<>Node<>::
+::res://Scenes/Game Over/::1702945210
+Game Over Screen.gd::GDScript::-1::1702945210::0::1::::<>Control<>::
+Game Over Screen.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Game Over/Game Over Screen.gd<>res://assets/music/Game Over.ogg<>res://assets/Shaders/Burn Shader Effect.tres<>res://assets/game over screen/Game Over Screen.jpg
+::res://Scenes/GUI/::1702945210
+::res://Scenes/GUI/Action Selector/::1702945210
+Action Selector.gd::GDScript::-1::1702945210::0::1::::<>CanvasLayer<>::
+Action Selector.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/GUI/Action Selector/Action Selector.gd<>res://Scenes/GUI/Action Selector/Actions/Top.tscn<>res://Scenes/GUI/Action Selector/Actions/Bottom.tscn<>res://Scenes/GUI/Action Selector/Actions/Attack.tscn<>res://Scenes/GUI/Action Selector/Actions/Convoy.tscn<>res://Scenes/GUI/Action Selector/Actions/Heal.tscn<>res://Scenes/GUI/Action Selector/Actions/Item.tscn<>res://Scenes/GUI/Action Selector/Actions/Trade.tscn<>res://Scenes/GUI/Action Selector/Actions/Shop.tscn<>res://Scenes/GUI/Action Selector/Actions/Seize.tscn<>res://Scenes/GUI/Action Selector/Actions/Wait.tscn<>res://Scenes/GUI/Action Selector/Actions/Visit.tscn<>res://Scenes/GUI/Hand Cursor/Hand Selector.tscn
+::res://Scenes/GUI/Action Selector/Actions/::1702945210
+Attack.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/UI/Action Selector/mid.png<>res://assets/font/Action Selector Font.tres
+Bottom.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/UI/Action Selector/bottom.png
+Convoy.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/UI/Action Selector/mid.png<>res://assets/font/Action Selector Font.tres
+Heal.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/UI/Action Selector/mid.png<>res://assets/font/Action Selector Font.tres
+Item.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/UI/Action Selector/mid.png<>res://assets/font/Action Selector Font.tres
+Seize.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/UI/Action Selector/mid.png<>res://assets/font/Action Selector Font.tres
+Shop.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/UI/Action Selector/mid.png<>res://assets/font/Action Selector Font.tres
+Top.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/UI/Action Selector/top.png
+Trade.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/UI/Action Selector/mid.png<>res://assets/font/Action Selector Font.tres
+Visit.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/UI/Action Selector/mid.png<>res://assets/font/Action Selector Font.tres
+Wait.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/UI/Action Selector/mid.png<>res://assets/font/Action Selector Font.tres
+::res://Scenes/GUI/Attack Arc/::1702945210
+AI Attack Arc.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+AI Attack Arc.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/GUI/Attack Arc/AI Attack Arc.gd
+::res://Scenes/GUI/Cell/::1702945210
+Cell.gd::GDScript::-1::1702945210::0::1::::Cell<>Node2D<>::
+Cell.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/GUI/Cell/Cell.gd<>res://Scenes/GUI/CellColors/MovementRangeRect.tscn<>res://assets/font/Main Font.ttf
+Label.gd::GDScript::-1::1702945210::0::1::::<>Label<>::
+MovementRangeRect.gd::GDScript::-1::1702945210::0::1::::MovementRangeRect<>Node2D<>::
+::res://Scenes/GUI/CellColors/::1702945210
+MovementRangeRect.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/GUI/Cell/MovementRangeRect.gd<>res://assets/UI/Square Selectors/Animated Selectors.png
+::res://Scenes/GUI/Cursor/::1702945210
+Cursor.gd::GDScript::-1::1702945210::0::1::::Cursor<>Node2D<>::
+Cursor.tres::Animation::-1::1702945210::0::1::::<><>::
+Cursor.tres.res::Animation::-1::1702945210::0::1::::<><>::
+Cursor.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/GUI/Cursor/Cursor.gd<>res://assets/UI/Damage Preview/Cursor/cursor.png<>res://Scenes/GUI/Cursor/Cursor.tres.res<>res://assets/UI/Damage Preview/Cursor/staticCursor.png<>res://assets/sound/cursor/cursorMovement.wav<>res://assets/sound/cursor/accept.wav<>res://assets/sound/cursor/selectUnit.wav<>res://assets/sound/cursor/Not Allowed.wav<>res://assets/sound/cursor/backSound.wav<>res://assets/sound/misc/move sound 2.wav
+::res://Scenes/GUI/Damage Preview/::1702945210
+Cursor Select.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/UI/Damage Preview/Cursor/staticCursor.png
+Damage Preview.gd::GDScript::-1::1702945210::0::1::::<>CanvasLayer<>::
+Damage Preview.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/GUI/Damage Preview/Damage Preview.gd<>res://assets/UI/Damage Preview/damageBox.png<>res://FE Icon.jpg<>res://assets/font/Action Selector Font.tres<>res://Scenes/Combat/Double Attack Logo.tscn<>res://Scenes/Combat/Up Arrow Combat.tscn<>res://Scenes/Combat/Down Arrow Combat.tscn<>res://Scenes/GUI/Hand Cursor/Hand Selector.tscn
+Damage_Preview_Area_Unit.tscn::PackedScene::-1::1702945210::0::1::::<><>::
+Healing Preview.gd::GDScript::-1::1702945210::0::1::::<>CanvasLayer<>::
+Healing Preview.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/GUI/Damage Preview/Healing Preview.gd<>res://assets/UI/Damage Preview/damageBox.png<>res://FE Icon.jpg<>res://assets/font/Action Selector Font.tres<>res://Scenes/GUI/Hand Cursor/Hand Selector.tscn
+::res://Scenes/GUI/End Turn/::1702945210
+End End Turn.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/UI/Action Selector/mid.png<>res://assets/font/Action Selector Font.tres
+End Turn.gd::GDScript::-1::1702945210::0::1::::<>CanvasLayer<>::
+End Turn.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/GUI/End Turn/End Turn.gd<>res://Scenes/GUI/Action Selector/Actions/Top.tscn<>res://Scenes/GUI/End Turn/Status End Turn.tscn<>res://Scenes/GUI/End Turn/Unit End Turn.tscn<>res://Scenes/GUI/End Turn/Suspend.tscn<>res://Scenes/GUI/End Turn/End End Turn.tscn<>res://Scenes/GUI/Hand Cursor/Hand Selector.tscn<>res://Scenes/GUI/Action Selector/Actions/Bottom.tscn
+Status End Turn.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/UI/Action Selector/mid.png<>res://assets/font/Action Selector Font.tres
+Suspend.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/UI/Action Selector/mid.png<>res://assets/font/Action Selector Font.tres
+Unit End Turn.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/UI/Action Selector/mid.png<>res://assets/font/Action Selector Font.tres
+::res://Scenes/GUI/Hand Cursor/::1702945210
+Hand Selector.gd::GDScript::-1::1702945210::0::1::::<>Control<>::
+Hand Selector.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/GUI/Hand Cursor/Hand Selector.gd<>res://assets/UI/Damage Preview/Cursor/hand.png<>res://assets/sound/cursor/menu cursor.wav<>res://assets/sound/cursor/accept.wav<>res://assets/sound/cursor/backSound.wav<>res://assets/sound/cursor/Not Allowed.wav<>res://assets/sound/cursor/Select - low tone.wav
+::res://Scenes/GUI/Item Screen/::1702945210
+Equip Discord Box.gd::GDScript::-1::1702945210::0::1::::<>Control<>::
+Equip Discord Box.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/GUI/Item Screen/Equip Discord Box.gd<>res://assets/UI/Inventory/equip discard box.png<>res://assets/font/Main Font.ttf<>res://assets/font/Weapon Name.tres<>res://Scenes/GUI/Hand Cursor/Hand Selector.tscn<>res://Scenes/GUI/Item Screen/Yes No Box.tscn
+Item Screen.gd::GDScript::-1::1702945210::0::1::::<>CanvasLayer<>::
+Item Screen.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/GUI/Item Screen/Item Screen.gd<>res://assets/UI/Inventory/top inventory.png<>res://assets/UI/Inventory/bottom inventory.png<>res://Scenes/GUI/Item Screen/Item Select Slot.tscn<>res://Scenes/GUI/Hand Cursor/Hand Selector.tscn<>res://icon.png<>res://Scenes/GUI/Item Screen/Equip Discord Box.tscn<>res://assets/UI/Item Preview/itemBox.png<>res://FE Icon.jpg<>res://assets/font/Main Font.ttf
+Item Select Slot.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Item Select Slot.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/GUI/Item Screen/Item Select Slot.gd<>res://assets/UI/Inventory/middle.png<>res://assets/font/Main Font.ttf<>res://FE Icon.jpg
+Yes No Box Generic.gd::GDScript::-1::1702945210::0::1::::<>Control<>::
+Yes No Box Generic.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/GUI/Item Screen/Yes No Box Generic.gd<>res://assets/UI/Inventory/equip discard box.png<>res://assets/font/Main Font.ttf<>res://assets/font/Weapon Name.tres<>res://Scenes/GUI/Hand Cursor/Hand Selector.tscn
+Yes No Box.gd::GDScript::-1::1702945210::0::1::::<>Control<>::
+Yes No Box.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/GUI/Item Screen/Yes No Box.gd<>res://assets/UI/Inventory/equip discard box.png<>res://assets/font/Main Font.ttf<>res://assets/font/Weapon Name.tres<>res://Scenes/GUI/Hand Cursor/Hand Selector.tscn
+::res://Scenes/GUI/Overhead/::1702945210
+BattlefieldHUD.gd::GDScript::-1::1702945210::0::1::::<>CanvasLayer<>::
+BattlefieldHUD.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/GUI/Overhead/BattlefieldHUD.gd<>res://assets/UI/Panels/unitInfoBox.png<>res://assets/font/Main Font.ttf<>res://assets/UI/Panels/emptyHealthBar.png<>res://assets/UI/Panels/fullHealthBar.png<>res://assets/units/eirika/eirikaPortrait.png<>res://assets/UI/Panels/victoryConditionBox.png<>res://assets/UI/Panels/terrainInfoBox.png<>res://assets/font/Font_Resource.tres
+GUI Areas.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+GUI Areas.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/GUI/Overhead/GUI Areas.gd
+::res://Scenes/GUI/Shop/::1702945210
+Shop UI.gd::GDScript::-1::1702945210::0::1::::Shop_UI<>CanvasLayer<>::
+Shop UI.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/font/Main Font.ttf<>res://assets/font/Action Selector Font.tres<>res://assets/items/swords/iron_Sword.png<>res://assets/items/axes/ironAxe.png<>res://assets/items/staves/heal.png<>res://assets/items/lances/silverLance.png<>res://assets/music/Fire Emblem Awakening OST -  44 Merchant Theme.ogg<>res://assets/voice/Shop Entrance Greeting.wav<>res://assets/items/tomes/fire.png<>res://assets/voice/Welcome JPN.wav<>res://assets/voice/Come again jpn.wav<>res://assets/items/bows/iron bow.png<>res://assets/UI/shop/shop bg 2.jpg<>res://assets/voice/Thanks for patronage.wav<>res://assets/items/swords/killing_edge_icon.png<>res://assets/items/lances/iron_lance_icon.png<>res://Scenes/GUI/Shop/Shop UI.gd<>res://assets/UI/shop/Anna portrait.png<>res://Scenes/GUI/Hand Cursor/Hand Selector.tscn<>res://assets/voice/Let's go.wav<>res://assets/UI/shop/Shop Background.png<>res://assets/voice/Choose your weapon.wav<>res://Scenes/GUI/Unit Selectors/Unit Picker Solo.tscn<>res://assets/voice/Can't do that.wav<>res://assets/voice/Not enough money.wav<>res://assets/voice/That's dissapointing.wav<>res://assets/voice/is that okay.wav<>res://Scenes/GUI/Unit Inventory Display/Unit Inventory Display.tscn
+::res://Scenes/GUI/Status Screen/::1702945210
+Status Screen.gd::GDScript::-1::1702945210::0::1::::<>CanvasLayer<>::
+Status Screen.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/GUI/Status Screen/Status Screen.gd<>res://assets/font/Action Selector Font.tres<>res://assets/UI/Panels/unitInfoBox.png<>res://assets/font/Main Font.ttf<>res://assets/UI/Panels/emptyHealthBar.png<>res://assets/UI/Panels/fullHealthBar.png<>res://assets/units/eirika/eirikaPortrait.png
+::res://Scenes/GUI/Trade/::1702945210
+Trade Items Screen.gd::GDScript::-1::1702945210::0::1::::<>Control<>::
+Trade Items Screen.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/GUI/Trade/Trade Items Screen.gd<>res://assets/font/Main Font.ttf<>res://icon.png<>res://assets/UI/Inventory/top inventory.png<>res://Scenes/GUI/Item Screen/Item Select Slot.tscn<>res://assets/UI/Inventory/bottom inventory.png<>res://Scenes/GUI/Hand Cursor/Hand Selector.tscn
+Trade Screen.gd::GDScript::-1::1702945210::0::1::::<>CanvasLayer<>::
+Trade Screen.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/GUI/Trade/Trade Screen.gd<>res://assets/UI/trade/Top Trade.png<>res://assets/font/Font_Resource.tres<>res://icon.png<>res://assets/UI/Inventory/bottom inventory.png<>res://Scenes/GUI/Item Screen/Item Select Slot.tscn<>res://Scenes/GUI/Trade/Trade Items Screen.tscn<>res://Scenes/GUI/Hand Cursor/Hand Selector.tscn
+::res://Scenes/GUI/Unit Info/::1702945210
+Unit Info Screen.gd::GDScript::-1::1702945210::0::1::::<>CanvasLayer<>::
+Unit Info Screen.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/GUI/Unit Info/Unit Info Screen.gd<>res://icon.png<>res://Scenes/GUI/Item Screen/Item Select Slot.tscn
+::res://Scenes/GUI/Unit Inventory Display/::1702945210
+Unit Inventory Display.gd::GDScript::-1::1702945210::0::1::::<>Control<>::
+Unit Inventory Display.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/font/Main Font.ttf<>res://assets/font/Preparation Screen Item List Font.tres<>res://Scenes/GUI/Item Screen/Yes No Box.tscn<>res://Scenes/GUI/Hand Cursor/Hand Selector.tscn<>res://Scenes/GUI/Unit Inventory Display/Unit Inventory Display.gd
+::res://Scenes/GUI/Unit Selectors/::1702945210
+Unit Picker Solo.gd::GDScript::-1::1702945210::0::1::::<>Control<>::
+Unit Picker Solo.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/font/Main Font.ttf<>res://assets/font/Preparation Screen Item List Font.tres<>res://Scenes/GUI/Unit Selectors/Unit Picker Solo.gd<>res://Scenes/GUI/Hand Cursor/Hand Selector.tscn
+Unit Select.gd::GDScript::-1::1702945210::0::1::::<>Control<>::
+Unit Select.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/font/Main Font.ttf<>res://assets/font/Preparation Screen Item List Font.tres<>res://Scenes/GUI/Unit Selectors/Unit Select.gd<>res://Scenes/GUI/Hand Cursor/Hand Selector.tscn
+::res://Scenes/GUI/Weapon Select/::1702945210
+Healing Select.gd::GDScript::-1::1702945210::0::1::::<>CanvasLayer<>::
+Healing Select.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/GUI/Weapon Select/Healing Select.gd<>res://Scenes/GUI/Action Selector/Actions/Top.tscn<>res://Scenes/GUI/Action Selector/Actions/Bottom.tscn<>res://icon.png<>res://Scenes/GUI/Hand Cursor/Hand Selector.tscn<>res://assets/font/Main Font.ttf<>res://FE Icon.jpg<>res://assets/UI/Item Preview/itemBox.png
+Item Box.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/UI/Item Preview/itemBox.png<>res://FE Icon.jpg<>res://assets/font/Action Selector Font.tres
+Weapon Select Slot.gd::GDScript::-1::1702945210::0::1::::<>Control<>::
+Weapon Select Slot.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/GUI/Weapon Select/Weapon Select Slot.gd<>res://assets/UI/Action Selector/mid.png<>res://assets/font/Main Font.ttf<>res://FE Icon.jpg
+Weapon Select.gd::GDScript::-1::1702945210::0::1::::<>CanvasLayer<>::
+Weapon Select.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/GUI/Weapon Select/Weapon Select.gd<>res://Scenes/GUI/Weapon Select/Item Box.tscn<>res://Scenes/GUI/Action Selector/Actions/Top.tscn<>res://assets/UI/Inventory/top inventory.png<>res://Scenes/GUI/Action Selector/Actions/Bottom.tscn<>res://icon.png<>res://Scenes/GUI/Hand Cursor/Hand Selector.tscn
+::res://Scenes/GUI/XP and Level/::1702945210
+Level Up Screen.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Level Up Screen.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/GUI/XP and Level/Level Up Screen.gd<>res://assets/sound/misc/move sound 2.wav<>res://assets/sound/misc/Level up!.wav<>res://assets/Shaders/Burn Shader Effect.tres<>res://assets/UI/XP and Level/Level Up.png<>res://assets/UI/XP and Level/Level Up Panel.png<>res://assets/font/Action Selector Font.tres<>res://Scenes/GUI/XP and Level/More Stat Arrow.tscn<>res://icon.png
+More Stat Arrow.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/UI/XP and Level/more_stat.png
+XP Screen.gd::GDScript::-1::1702945210::0::1::::<>Control<>::
+XP Screen.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/GUI/XP and Level/XP Screen.gd<>res://assets/UI/XP and Level/xp_ui.png<>res://assets/UI/XP and Level/xp_empty_bar.png<>res://assets/UI/XP and Level/xp_full_bar.png<>res://assets/font/Main Font.ttf<>res://assets/sound/misc/xp gain.wav
+::res://Scenes/Intro Screen/::1702945210
+Intro Screen.gd::GDScript::-1::1702945210::0::1::::<>Control<>::
+Intro Screen.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Intro Screen/Intro Screen.gd<>res://assets/intro screen/intro background.jpg<>res://assets/music/01 Fire Emblem_ Three Houses Main Theme.ogg<>res://assets/font/Action Selector Font.tres<>res://Scenes/GUI/Hand Cursor/Hand Selector.tscn<>res://Scenes/Particles/Fog.tscn
+::res://Scenes/Items/::1702945210
+Item.gd::GDScript::-1::1702945210::0::1::::Item<>Node2D<>::
+Item.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Items/Item.gd
+Item_Dict.gd::GDScript::-1::1702945210::0::1::::ALL_ITEMS_REF<>Reference<>::
+::res://Scenes/Items/Axes/::1702945210
+Gorehowl.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Gorehowl.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Items/Axes/Gorehowl.gd
+Iron Axe.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Iron Axe.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Items/Axes/Iron Axe.gd
+::res://Scenes/Items/Bows/::1702945210
+Iron Bow.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Iron Bow.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Items/Bows/Iron Bow.gd
+::res://Scenes/Items/Lance/::1702945210
+Iron Lance.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Iron Lance.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Items/Lance/Iron Lance.gd
+Silver Lance.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Silver Lance.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Items/Lance/Silver Lance.gd
+::res://Scenes/Items/Staves/::1702945210
+Heal.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Heal.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Items/Staves/Heal.gd
+::res://Scenes/Items/Swords/::1702945210
+Iron Sword.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Iron Sword.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Items/Swords/Iron Sword.gd
+Killing Edge.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Killing Edge.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Items/Swords/Killing Edge.gd
+Rapier.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Rapier.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Items/Swords/Rapier.gd
+Steel Sword.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Steel Sword.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Items/Swords/Steel Sword.gd
+::res://Scenes/Items/Tomes/::1702945210
+Fire.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Fire.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Items/Tomes/Fire.gd
+Flux.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Flux.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Items/Tomes/Flux.gd
+::res://Scenes/Items/Unarmed/::1702945210
+Unarmed.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Unarmed.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Items/Unarmed/Unarmed.gd
+::res://Scenes/Levels/::1702945210
+level2.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+level2.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/levels/level2/level2.tmx<>res://Scenes/Levels/level2.gd<>res://Scenes/Weather Effects/Rain.tscn
+Level3.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Level3.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/levels/level3/level3.tmx<>res://Scenes/Levels/Level3.gd
+Level4a.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Level4a.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/levels/level5/level5.tmx<>res://Scenes/Levels/Level4a.gd<>res://icon.png
+Level5.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Level5.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/levels/level4/level4.tmx<>res://Scenes/Levels/Level5.gd
+Thunder Effect.gd::GDScript::-1::1702945210::0::1::::<>Sprite<>::
+Tiled_Level.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+::res://Scenes/Messaging/::1702945210
+Message System.gd::GDScript::-1::1702945210::0::1::::Messaging_System<>CanvasLayer<>::
+Message System.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Messaging/Message System.gd<>res://assets/Dialogue/dialogue Box 3H.png<>res://assets/Dialogue/arrow 2.png<>res://assets/font/Main Font.ttf<>res://assets/font/Messaging Font.tres<>res://assets/units/eirika/eirika mugshot.png
+::res://Scenes/Particles/::1702945210
+First Pass Particles.tres::ParticleProcessMaterial::-1::1702945210::0::1::::<><>::
+Fog.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://icon.png<>res://Scenes/Particles/First Pass Particles.tres
+::res://Scenes/Preparation Screen/::1702945210
+Preparation Screen.gd::GDScript::-1::1702945210::0::1::::<>CanvasLayer<>::
+Preparation Screen.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Preparation Screen/Preparation Screen.gd<>res://assets/Preparation/Preparation Screen.png<>res://assets/font/Main Font.ttf<>res://Scenes/GUI/Hand Cursor/Hand Selector.tscn<>res://assets/music/Swift As Wind.wav<>res://assets/music/Fierce as fire.wav<>res://assets/sound/transition/Chapter Start.wav<>res://assets/font/Preparation Screen Item List Font.tres<>res://Scenes/GUI/Unit Selectors/Unit Select.tscn<>res://Scenes/GUI/Shop/Shop UI.tscn
+::res://Scenes/Transition/::1702945210
+Combat Transition.gd::GDScript::-1::1702945210::0::1::::<>Control<>::
+Combat Transition.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Transition/Combat Transition.gd<>res://assets/Textures/Combat Transition.shader<>res://assets/transition/shards.png<>res://assets/sound/transition/Battle Start 1.wav
+Scene Transition.gd::GDScript::-1::1702945210::0::1::::<>CanvasLayer<>::
+Scene Transition.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Transition/Scene Transition.gd
+Turn Transition.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Turn Transition.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Transition/Turn Transition.gd<>res://assets/transition/player phase.png<>res://assets/transition/enemy phase.png<>res://assets/sound/transition/Next Turn.wav
+::res://Scenes/Units/::1702945210
+::res://Scenes/Units/Enemy_Units/::1702945210
+Bandit Combat.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Bandit Combat.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Units/Enemy_Units/Bandit Combat.gd<>res://assets/units/bandit/fighter_Regular_black.png<>res://assets/battle_effects/Physical Effects.png<>res://assets/transition/white flash.png
+Bandit.gd::GDScript::-1::1702945210::0::1::::<>Battlefield_Unit<>::
+Bandit.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Units/Enemy_Units/Bandit.gd<>res://assets/units/bandit/bandit_black.png<>res://assets/sound/unitMovement/Light Foot Steps 1.wav<>res://Scenes/AI/AI.tscn<>res://Scenes/GUI/Damage Preview/Cursor Select.tscn
+Black Archer Combat.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Black Archer Combat.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Units/Enemy_Units/Black Archer Combat.gd<>res://assets/units/archer/black archer regular.png<>res://assets/units/archer/black archer crit.png<>res://assets/battle_effects/Physical Effects.png<>res://assets/transition/white flash.png<>res://assets/sound/battle sounds/ARROW_2.wav
+Black Archer.gd::GDScript::-1::1702945210::0::1::::<>Battlefield_Unit<>::
+Black Archer.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Units/Enemy_Units/Black Archer.gd<>res://assets/sound/unitMovement/Light Foot Steps 1.wav<>res://assets/units/archer/black archer.png<>res://Scenes/GUI/Damage Preview/Cursor Select.tscn<>res://Scenes/AI/AI.tscn
+Black Soldier Combat.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Black Soldier Combat.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Units/Enemy_Units/Black Soldier Combat.gd<>res://assets/units/soldier/soldier_black.png<>res://assets/battle_effects/Physical Effects.png<>res://assets/transition/white flash.png
+Dark Mage Enemy Combat.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Dark Mage Enemy Combat.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Units/Enemy_Units/Dark Mage Enemy Combat.gd<>res://assets/units/darkmage/Dark Mage Combat.png<>res://assets/transition/white flash.png<>res://assets/battle_effects/flux.png<>res://assets/sound/battle sounds/Flux1.wav<>res://assets/sound/battle sounds/Flux2.wav<>res://assets/sound/battle sounds/Flux3.wav
+Dark Mage Enemy.gd::GDScript::-1::1702945210::0::1::::<>Battlefield_Unit<>::
+Dark Mage Enemy.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Units/Enemy_Units/Dark Mage Enemy.gd<>res://assets/units/darkmage/darkmage.png<>res://assets/sound/unitMovement/Light Foot Steps 1.wav<>res://Scenes/GUI/Damage Preview/Cursor Select.tscn<>res://Scenes/AI/AI.tscn
+Enemy General Black Combat.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Enemy General Black Combat.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Units/Enemy_Units/Enemy General Black Combat.gd<>res://assets/sound/misc/ARMOR_0.wav<>res://assets/units/general/general axe black.png<>res://assets/units/general/general crit axe black.png<>res://assets/battle_effects/Physical Effects.png<>res://assets/transition/white flash.png<>res://assets/sound/battle sounds/AXE_3.wav
+Enemy General Black.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Units/Enemy_Units/Enemy General.gd<>res://assets/units/general/general black.png<>res://assets/sound/unitMovement/Heavy Foot Steps 1.wav<>res://Scenes/GUI/Damage Preview/Cursor Select.tscn<>res://Scenes/AI/AI.tscn
+Enemy General.gd::GDScript::-1::1702945210::0::1::::<>Battlefield_Unit<>::
+Enemy Pegasus Knight Combat.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Enemy Pegasus Knight Combat.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/units/pegasus knight/enemy pegasus lance regular.png<>res://assets/units/pegasus knight/enemy pegasus lance crit.png<>res://assets/sound/unitMovement/PEGASUS_FLAP_0.wav<>res://assets/transition/white flash.png<>res://assets/battle_effects/Physical Effects.png<>res://assets/sound/battle sounds/AXE_3.wav
+Enemy Pegasus Knight.gd::GDScript::-1::1702945210::0::1::::<>Battlefield_Unit<>::
+Enemy Pegasus Knight.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Units/Enemy_Units/Enemy Pegasus Knight.gd<>res://assets/units/pegasus knight/enemy pegasus knight.png<>res://Scenes/AI/AI.tscn<>res://Scenes/Units/Player_Units/AllyUnits/Default Anim.tres<>res://assets/sound/unitMovement/PEGASUS_FLAP_0.wav<>res://Scenes/GUI/Damage Preview/Cursor Select.tscn
+Enemy Soldier.gd::GDScript::-1::1702945210::0::1::::<>Battlefield_Unit<>::
+Enemy Soldier.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Units/Enemy_Units/Enemy Soldier.gd<>res://assets/units/soldier/soldier_black.png<>res://assets/sound/unitMovement/Light Foot Steps 1.wav<>res://Scenes/GUI/Damage Preview/Cursor Select.tscn<>res://Scenes/AI/AI.tscn
+::res://Scenes/Units/Player_Units/::1702945210
+::res://Scenes/Units/Player_Units/AllyUnits/::1702945210
+Default Anim.tres::Animation::-1::1702945210::0::1::::<><>::res://assets/sound/unitMovement/PEGASUS_FLAP_0.wav
+::res://Scenes/Units/Player_Units/AllyUnits/Ally Archer/::1702945210
+Ally Archer.gd::GDScript::-1::1702945210::0::1::::<>Battlefield_Unit<>::
+Ally Archer.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Units/Player_Units/AllyUnits/Ally Archer/Ally Archer.gd<>res://assets/sound/unitMovement/Light Foot Steps 1.wav<>res://assets/units/archer/archer ally.png<>res://Scenes/GUI/Damage Preview/Cursor Select.tscn
+Naomi Combat.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Naomi Combat.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Units/Player_Units/AllyUnits/Ally Archer/Naomi Combat.gd<>res://assets/units/archer/neimi archer regular.png<>res://assets/units/archer/neimi crit bow.png<>res://assets/battle_effects/Physical Effects.png<>res://assets/transition/white flash.png<>res://assets/sound/battle sounds/ARROW_2.wav
+::res://Scenes/Units/Player_Units/AllyUnits/Ally Knight/::1702945210
+Ally Knight.gd::GDScript::-1::1702945210::0::1::::<>Battlefield_Unit<>::
+Ally Knight.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Units/Player_Units/AllyUnits/Ally Knight/Ally Knight.gd<>res://assets/units/knight/knight ally.png<>res://assets/sound/unitMovement/Heavy Foot Steps 1.wav<>res://Scenes/GUI/Damage Preview/Cursor Select.tscn
+Gilliam Combat.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Gilliam Combat.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Units/Player_Units/AllyUnits/Ally Knight/Gilliam Combat.gd<>res://assets/units/knight/ally knight spear.png<>res://assets/units/knight/ally knight spear critical.png<>res://assets/transition/white flash.png<>res://assets/battle_effects/Physical Effects.png
+::res://Scenes/Units/Player_Units/AllyUnits/Ally Mage/::1702945210
+Ally Mage Combat.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Ally Mage Combat.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Units/Player_Units/AllyUnits/Ally Mage/Ally Mage Combat.gd<>res://assets/sound/weapon sounds/Draw Weapon.wav<>res://assets/sound/battle sounds/FIRE_0.wav<>res://assets/sound/battle sounds/FIRE_1.wav<>res://assets/units/mage/ally mage regular.png<>res://assets/units/mage/mage ally crit.png<>res://assets/battle_effects/Fire effect.png<>res://assets/transition/white flash.png
+Ally Mage.gd::GDScript::-1::1702945210::0::1::::<>Battlefield_Unit<>::
+Ally Mage.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Units/Player_Units/AllyUnits/Ally Mage/Ally Mage.gd<>res://assets/units/mage/mage ally.png<>res://assets/sound/unitMovement/Light Foot Steps 1.wav<>res://Scenes/GUI/Damage Preview/Cursor Select.tscn
+::res://Scenes/Units/Player_Units/AllyUnits/Ally Pegasus Knight/::1702945210
+Ally Pegasus Knight.gd::GDScript::-1::1702945210::0::1::::<>Battlefield_Unit<>::
+Ally Pegasus Knight.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Units/Player_Units/AllyUnits/Ally Pegasus Knight/Ally Pegasus Knight.gd<>res://assets/sound/unitMovement/PEGASUS_FLAP_0.wav<>res://Scenes/GUI/Damage Preview/Cursor Select.tscn<>res://Scenes/Units/Player_Units/AllyUnits/Default Anim.tres
+Vanessa Combat.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Vanessa Combat.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Units/Player_Units/AllyUnits/Ally Pegasus Knight/Vanessa Combat.gd<>res://assets/units/pegasus knight/vanessa lance regular.png<>res://assets/units/pegasus knight/vanessa lance crit.png<>res://assets/sound/unitMovement/PEGASUS_FLAP_0.wav<>res://assets/transition/white flash.png<>res://assets/battle_effects/Physical Effects.png<>res://assets/sound/battle sounds/AXE_3.wav
+::res://Scenes/Units/Player_Units/AllyUnits/Ally Thief/::1702945210
+Ally Thief.gd::GDScript::-1::1702945210::0::1::::<>Battlefield_Unit<>::
+Ally Thief.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Units/Player_Units/AllyUnits/Ally Thief/Ally Thief.gd<>res://assets/units/thief/Thief Blue Ally.png<>res://assets/sound/unitMovement/Light Foot Steps 1.wav<>res://Scenes/GUI/Damage Preview/Cursor Select.tscn
+Colm Combat.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Colm Combat.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Units/Player_Units/AllyUnits/Ally Thief/Colm Combat.gd<>res://assets/units/thief/colm regular.png<>res://assets/units/thief/colm crit.png<>res://assets/transition/white flash.png<>res://assets/battle_effects/Physical Effects.png
+::res://Scenes/Units/Player_Units/AllyUnits/Eirika/::1702945210
+Eirika Combat.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Units/Unit_Scripts/Ally Combat Script.gd<>res://assets/units/eirika/Eirika Combat Sprites.png<>res://assets/battle_effects/Physical Effects.png<>res://assets/transition/white flash.png
+Eirika Idle Anim.tres::Animation::-1::1702945210::0::1::::<><>::
+Eirika.gd::GDScript::-1::1702945210::0::1::::<>Battlefield_Unit<>::
+Eirika.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Units/Player_Units/AllyUnits/Eirika/Eirika.gd<>res://assets/units/eirika/eirika.png<>res://assets/sound/unitMovement/Light Foot Steps 1.wav<>res://Scenes/GUI/Damage Preview/Cursor Select.tscn<>res://Scenes/Units/Player_Units/AllyUnits/Eirika/Eirika Idle Anim.tres
+::res://Scenes/Units/Player_Units/AllyUnits/Ephraim Soldier/::1702945210
+Ephraim Soldier.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Units/Player_Units/AllyUnits/Ephraim Soldier/Soldier Ally.gd<>res://assets/units/soldier/soldier_blue.png<>res://assets/sound/unitMovement/Light Foot Steps 1.wav<>res://Scenes/GUI/Damage Preview/Cursor Select.tscn
+Soldier Ally Combat.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Soldier Ally Combat.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Units/Player_Units/AllyUnits/Ephraim Soldier/Soldier Ally Combat.gd<>res://assets/units/soldier/soldier_blue.png<>res://assets/battle_effects/Physical Effects.png<>res://assets/transition/white flash.png
+Soldier Ally.gd::GDScript::-1::1702945210::0::1::::<>Battlefield_Unit<>::
+::res://Scenes/Units/Player_Units/AllyUnits/Natasha/::1702945210
+Natasha Combat.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Natasha Combat.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Units/Player_Units/AllyUnits/Natasha/Natasha Combat.gd<>res://assets/units/cleric/Natasha Combat.png<>res://assets/units/cleric/Heal Restore.png<>res://assets/battle_effects/Heal Star.png<>res://assets/sound/battle sounds/Heal.wav
+Natasha.gd::GDScript::-1::1702945210::0::1::::<>Battlefield_Unit<>::
+Natasha.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Units/Player_Units/AllyUnits/Natasha/Natasha.gd<>res://assets/sound/unitMovement/Light Foot Steps 1.wav<>res://assets/units/cleric/cleric_map_sprite.png<>res://Scenes/GUI/Damage Preview/Cursor Select.tscn
+::res://Scenes/Units/Player_Units/AllyUnits/Seth/::1702945210
+Seth Combat.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Seth Combat.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Units/Player_Units/AllyUnits/Seth/Seth Combat.gd<>res://assets/units/cavalier/Seth Battle.png<>res://assets/units/cavalier/Paladin Lance Regular.png<>res://assets/units/cavalier/paladin lance crit.png<>res://assets/transition/white flash.png<>res://assets/battle_effects/Physical Effects.png<>res://assets/sound/misc/CRITICAL_HORSE_0.wav<>res://assets/sound/unitMovement/Horse Steps.wav<>res://assets/sound/misc/slow horse step.wav
+Seth.gd::GDScript::-1::1702945210::0::1::::<>Battlefield_Unit<>::
+Seth.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Units/Player_Units/AllyUnits/Seth/Seth.gd<>res://assets/units/cavalier/cavalierAlly.png<>res://assets/sound/unitMovement/Horse Steps.wav<>res://Scenes/GUI/Damage Preview/Cursor Select.tscn
+::res://Scenes/Units/Player_Units/AllyUnits/SwordMaster Female/::1702945210
+Lyn.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Lyn.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Units/Player_Units/AllyUnits/SwordMaster Female/Lyn.gd<>res://Scenes/GUI/Damage Preview/Cursor Select.tscn<>res://assets/units/Swordmaster female/Lyn Swordman.png
+::res://Scenes/Units/Unit_Scripts/::1702945210
+Ally Combat Script.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Battlefield_Unit.gd::GDScript::-1::1702945210::0::1::::Battlefield_Unit<>Node2D<>::
+Combat Unit.gd::GDScript::-1::1702945210::0::1::::Combat_Unit<>Node2D<>::
+Inventory.gd::GDScript::-1::1702945210::0::1::::Unit_Inventory<>Node2D<>::
+Inventory.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Units/Unit_Scripts/Inventory.gd<>res://Scenes/Items/Unarmed/Unarmed.tscn
+Unit_Action_Status.gd::GDScript::-1::1702945210::0::1::::Unit_Action_Status<>Node<>::
+Unit_Movement.gd::GDScript::-1::1702945210::0::1::::Unit_Movement<>Node<>::
+Unit_Stats.gd::GDScript::-1::1702945210::0::1::::Unit_Stats<>Object<>::
+::res://Scenes/Walkable/::1702945210
+Anna Walk.gd::GDScript::-1::1702945210::0::1::::<>KinematicBody2D<>::
+Anna Walk.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/units/archer/archer ally.png<>res://assets/sound/unitMovement/Light Foot Steps 1.wav<>res://Scenes/Walkable/Anna Walk.gd
+Colm Walk.gd::GDScript::-1::1702945210::0::1::::<>KinematicBody2D<>::
+Colm Walk.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/units/thief/Thief Blue Ally.png<>res://assets/sound/unitMovement/Light Foot Steps 1.wav<>res://Scenes/Walkable/Colm Walk.gd
+Eirika Walk.gd::GDScript::-1::1702945210::0::1::::Eirka_Walk<>KinematicBody2D<>::
+Eirika Walk.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/units/eirika/eirika.png<>res://assets/sound/unitMovement/Light Foot Steps 1.wav<>res://Scenes/Units/Player_Units/AllyUnits/Eirika/Eirika Idle Anim.tres<>res://Scenes/Walkable/Eirika Walk.gd
+Naomi Walk.gd::GDScript::-1::1702945210::0::1::::<>KinematicBody2D<>::
+Naomi Walk.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Walkable/Naomi Walk.gd<>res://assets/units/archer/archer ally.png<>res://assets/sound/unitMovement/Light Foot Steps 1.wav
+Seth Walk.gd::GDScript::-1::1702945210::0::1::::<>KinematicBody2D<>::
+Seth Walk.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/units/cavalier/cavalierAlly.png<>res://assets/sound/unitMovement/Horse Steps.wav<>res://Scenes/Walkable/Seth Walk.gd
+Test Walk Map.gd::GDScript::-1::1702945210::0::1::::Test_Walk_Map<>Node2D<>::
+Test Walk Map.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/walkable maps/Test_Wwalk.tmx<>res://Scenes/Walkable/Test Walk Map.gd
+Vanessa Walk.gd::GDScript::-1::1702945210::0::1::::<>KinematicBody2D<>::
+Vanessa Walk.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/sound/unitMovement/PEGASUS_FLAP_0.wav<>res://Scenes/Units/Player_Units/AllyUnits/Default Anim.tres<>res://Scenes/Walkable/Vanessa Walk.gd
+Walkable Map.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+Walkable Map.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/Walkable/Test Walk Map.tscn<>res://Scenes/Walkable/Eirika Walk.tscn<>res://Scenes/Walkable/Walkable Map.gd<>res://assets/music/06 Life at Garreg Mach Monastery.ogg<>res://Scenes/Walkable/Seth Walk.tscn<>res://Scenes/Walkable/Vanessa Walk.tscn<>res://Scenes/Walkable/Naomi Walk.tscn<>res://Scenes/Walkable/Anna Walk.tscn<>res://Scenes/Walkable/Colm Walk.tscn
+::res://Scenes/Weather Effects/::1702945210
+Rain.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/Textures/Rain Noise Texture.tres<>res://assets/levels/level2/level2.png
+Thunder Effect.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/transition/white flash.png<>res://Scenes/Levels/Thunder Effect.gd<>res://assets/sound/weather sounds/Thunder Effect 1.wav<>res://assets/sound/weather sounds/Thunder Effect 2.wav<>res://assets/sound/weather sounds/Thunder Effect 3.wav
+::res://Scenes/World Map/::1702945210
+World Map Screen.gd::GDScript::-1::1702945210::0::1::::<>Node2D<>::
+World Map Screen.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://Scenes/World Map/World Map Screen.gd<>res://assets/world map/world map.png<>res://assets/music/Fire Emblem 8 Remastered - 4 In The Beginning.ogg<>res://Scenes/Messaging/Message System.tscn<>res://assets/units/eirika/eirika.png<>res://assets/sound/unitMovement/Light Foot Steps 1.wav<>res://Scenes/GUI/Damage Preview/Cursor Select.tscn<>res://Scenes/World Map/World Map Icons/Castle Icon.tscn<>res://Scenes/World Map/World Map Icons/Fortress Icon.tscn<>res://Scenes/World Map/World Map Icons/Village Icon.tscn
+::res://Scenes/World Map/World Map Icons/::1702945210
+Castle Icon.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/levels/level2/level2.png
+Fortress Icon.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/levels/level3/level3.png
+Village Icon.tscn::PackedScene::-1::1702945210::0::1::::<><>::res://assets/levels/level3/level3.png
+::res://Screenshots/::1702948423
+AI.png::CompressedTexture2D::5021655089539640194::1702945210::1702948534::1::::<><>::
+Combat.png::CompressedTexture2D::7843175286517552043::1702945210::1702948534::1::::<><>::
+Dialogue.png::CompressedTexture2D::8840046325668544490::1702945210::1702948534::1::::<><>::
+Movement.png::CompressedTexture2D::5712906874488769568::1702945210::1702948534::1::::<><>::
+Party Members.png::CompressedTexture2D::876955584657023630::1702945210::1702948534::1::::<><>::
+Ranged.png::CompressedTexture2D::3583845564930927396::1702945210::1702948534::1::::<><>::
+Trade.png::CompressedTexture2D::159805677599348274::1702945210::1702948534::1::::<><>::

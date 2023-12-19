@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/bird chirping.wav-91222de01b292ea9e2cd3f264b4e24e3.sample"
+type="AudioStreamWAV"
+uid="uid://bgdtre0ex6i7m"
+path="res://.godot/imported/bird chirping.wav-91222de01b292ea9e2cd3f264b4e24e3.sample"
 
 [deps]
 
 source_file="res://assets/sound/misc/bird chirping.wav"
-dest_files=[ "res://.import/bird chirping.wav-91222de01b292ea9e2cd3f264b4e24e3.sample" ]
+dest_files=["res://.godot/imported/bird chirping.wav-91222de01b292ea9e2cd3f264b4e24e3.sample"]
 
 [params]
 

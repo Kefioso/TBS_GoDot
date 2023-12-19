@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/FIRE_0.wav-4863b019c369564d65e825bf2e150f51.sample"
+type="AudioStreamWAV"
+uid="uid://yqxt4dffpow3"
+path="res://.godot/imported/FIRE_0.wav-4863b019c369564d65e825bf2e150f51.sample"
 
 [deps]
 
 source_file="res://assets/sound/battle sounds/FIRE_0.wav"
-dest_files=[ "res://.import/FIRE_0.wav-4863b019c369564d65e825bf2e150f51.sample" ]
+dest_files=["res://.godot/imported/FIRE_0.wav-4863b019c369564d65e825bf2e150f51.sample"]
 
 [params]
 
